@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,SubCategory,Brand,PriceUSD,StockQty,Rating,UnitsSold,Description,Revenue,LowStock,SalesLevel,PriceRange
+GRN-1001,Adjustable Wrench,Compressed Air,Compressors,3M,284.82,222,3.7,3714,3M Compressors product suitable for industrial use.,1057821.48,False,High,High
+GRN-1002,Air Filter 16x25x1,Power Tools,Screwdrivers,Zep,218.78,408,4.8,4515,Zep Screwdrivers product suitable for industrial use.,987791.7,False,High,Medium
+GRN-1003,Ladder 6ft Fiberglass,Lighting,Work Lights,Bosch,344.93,300,4.2,1787,Bosch Work Lights product suitable for industrial use.,616389.91,False,Medium,High
+GRN-1004,Safety Gloves - Large,Plumbing,Pipe Tools,Zep,44.44,259,4.0,3995,Zep Pipe Tools product suitable for industrial use.,177537.8,False,High,Low
+GRN-1005,Safety Gloves - Large,Electrical,Circuit Protection,Grainger,131.55,468,4.3,3213,Grainger Circuit Protection product suitable for industrial use.,422670.15,False,High,Medium
+GRN-1006,Pipe Wrench,Safety Equipment,Fire Safety,Werner,49.33,171,3.6,1054,Werner Fire Safety product suitable for industrial use.,51993.82,False,Low,Low
+GRN-1007,Portable Air Compressor,Ladders & Scaff.,Step Ladders,Werner,181.92,477,4.8,2041,Werner Step Ladders product suitable for industrial use.,371298.72,False,Medium,Medium
+GRN-1008,"Tool Bag 18""",Footwear,Work Boots,Zep,394.78,394,4.8,1508,Zep Work Boots product suitable for industrial use.,595328.24,False,Medium,High
+GRN-1009,LED Work Light,Lighting,Work Lights,DeWalt,136.82,403,4.2,3757,DeWalt Work Lights product suitable for industrial use.,514032.74,False,High,Medium
+GRN-1010,Oil-Resistant Boots,Ladders & Scaff.,Step Ladders,Eaton,154.12,480,4.0,1805,Eaton Step Ladders product suitable for industrial use.,278186.60000000003,False,Medium,Medium
+GRN-1011,Oil-Resistant Boots,Plumbing,Pipe Tools,Bosch,304.29,74,3.5,2644,Bosch Pipe Tools product suitable for industrial use.,804542.76,False,Medium,High
+GRN-1012,Adjustable Wrench,Plumbing,Pipe Tools,Werner,56.11,101,3.7,2384,Werner Pipe Tools product suitable for industrial use.,133766.24,False,Medium,Low
+GRN-1013,Extension Cord 50ft,Compressed Air,Compressors,Bosch,31.46,98,4.5,2605,Bosch Compressors product suitable for industrial use.,81953.3,False,Medium,Low
+GRN-1014,Fire Extinguisher ABC,Compressed Air,Compressors,DeWalt,88.73,324,4.7,3033,DeWalt Compressors product suitable for industrial use.,269118.09,False,High,Low
+GRN-1015,LED Work Light,Safety Equipment,Hand Protection,Zep,328.04,78,4.5,809,Zep Hand Protection product suitable for industrial use.,265384.36000000004,False,Low,High
+GRN-1016,Oil-Resistant Boots,Footwear,Work Boots,Ansell,196.27,115,4.7,817,Ansell Work Boots product suitable for industrial use.,160352.59,False,Low,Medium
+GRN-1017,"Industrial Fan 24""",Footwear,Work Boots,Werner,488.48,271,4.4,4849,Werner Work Boots product suitable for industrial use.,2368639.52,False,High,High
+GRN-1018,Heavy Duty Drill,Power Tools,Wrenches,3M,317.27,107,4.8,1059,3M Wrenches product suitable for industrial use.,335988.93,False,Low,High
+GRN-1019,LED Work Light,Plumbing,Pipe Tools,Zep,292.51,412,4.9,1374,Zep Pipe Tools product suitable for industrial use.,401908.74,False,Low,High
+GRN-1020,Circuit Breaker 20A,HVAC,Ventilation Fans,Kidde,455.94,416,3.8,3345,Kidde Ventilation Fans product suitable for industrial use.,1525119.3,False,High,High
+GRN-1021,Heavy Duty Drill,Ladders & Scaff.,Step Ladders,Timberland PRO,406.02,162,4.4,2331,Timberland PRO Step Ladders product suitable for industrial use.,946432.62,False,Medium,High
+GRN-1022,Oil-Resistant Boots,Tools Storage,Tool Bags,Timberland PRO,377.48,17,3.9,1341,Timberland PRO Tool Bags product suitable for industrial use.,506200.68000000005,True,Low,High
+GRN-1023,Air Filter 16x25x1,HVAC,Ventilation Fans,DeWalt,383.87,432,4.0,1755,DeWalt Ventilation Fans product suitable for industrial use.,673691.85,False,Medium,High
+GRN-1024,Portable Air Compressor,Tools Storage,Tool Bags,Milwaukee,57.28,443,4.6,4821,Milwaukee Tool Bags product suitable for industrial use.,276146.88,False,High,Low
+GRN-1025,Air Filter 16x25x1,Cleaning Supplies,Surface Cleaners,Kidde,426.45,274,4.0,3016,Kidde Surface Cleaners product suitable for industrial use.,1286173.2,False,High,High
+GRN-1026,Extension Cord 50ft,Plumbing,Pipe Tools,Dayton,405.26,32,4.6,4717,Dayton Pipe Tools product suitable for industrial use.,1911611.42,False,High,High
+GRN-1027,"Industrial Fan 24""",Electrical,Extension Cords,Ansell,326.25,126,3.7,3450,Ansell Extension Cords product suitable for industrial use.,1125562.5,False,High,High
+GRN-1028,Safety Gloves - Large,Tools Storage,Tool Bags,Dayton,228.39,10,4.8,4932,Dayton Tool Bags product suitable for industrial use.,1126419.48,True,High,Medium
+GRN-1029,LED Work Light,Lighting,Work Lights,Milwaukee,49.17,414,4.2,3214,Milwaukee Work Lights product suitable for industrial use.,158032.38,False,High,Low
+GRN-1030,Adjustable Wrench,HVAC,Ventilation Fans,Bosch,377.62,486,4.4,2139,Bosch Ventilation Fans product suitable for industrial use.,807729.18,False,Medium,High
+GRN-1031,Oil-Resistant Boots,Compressed Air,Compressors,Milwaukee,433.94,383,3.8,296,Milwaukee Compressors product suitable for industrial use.,128446.24,False,Low,High
+GRN-1032,Heavy Duty Drill,Electrical,Extension Cords,Bosch,38.41,247,4.9,4054,Bosch Extension Cords product suitable for industrial use.,155714.13999999998,False,High,Low
+GRN-1033,Ladder 6ft Fiberglass,Tools Storage,Tool Bags,Ansell,85.54,66,4.5,4112,Ansell Tool Bags product suitable for industrial use.,351740.48000000004,False,High,Low
+GRN-1034,LED Work Light,Compressed Air,Compressors,Kidde,269.91,307,4.4,857,Kidde Compressors product suitable for industrial use.,231312.87000000002,False,Low,High
+GRN-1035,Portable Air Compressor,Lighting,Work Lights,Kidde,212.26,213,4.2,4027,Kidde Work Lights product suitable for industrial use.,854771.02,False,High,Medium
+GRN-1036,Adjustable Wrench,Plumbing,Pipe Tools,3M,199.77,107,3.8,4439,3M Pipe Tools product suitable for industrial use.,886779.03,False,High,Medium
+GRN-1037,Safety Gloves - Large,Tools Storage,Tool Bags,DeWalt,154.07,130,4.7,3372,DeWalt Tool Bags product suitable for industrial use.,519524.04,False,High,Medium
+GRN-1038,"Industrial Fan 24""",Safety Equipment,Fire Safety,Grainger,333.31,289,3.9,4547,Grainger Fire Safety product suitable for industrial use.,1515560.57,False,High,High
+GRN-1039,Cordless Screwdriver,Ladders & Scaff.,Step Ladders,Kidde,341.44,138,3.8,4756,Kidde Step Ladders product suitable for industrial use.,1623888.64,False,High,High
+GRN-1040,"Tool Bag 18""",Tools Storage,Tool Bags,Kidde,360.22,13,4.3,4058,Kidde Tool Bags product suitable for industrial use.,1461772.76,True,High,High
+GRN-1041,Cordless Screwdriver,Plumbing,Pipe Tools,GE,123.05,282,4.1,1046,GE Pipe Tools product suitable for industrial use.,128710.3,False,Low,Medium
+GRN-1042,Air Filter 16x25x1,Power Tools,Screwdrivers,Timberland PRO,39.17,144,3.6,674,Timberland PRO Screwdrivers product suitable for industrial use.,26400.58,False,Low,Low
+GRN-1043,Heavy Duty Drill,Ladders & Scaff.,Step Ladders,Eaton,256.12,155,4.7,2471,Eaton Step Ladders product suitable for industrial use.,632872.52,False,Medium,High
+GRN-1044,Safety Gloves - Large,Plumbing,Pipe Tools,Zep,481.49,309,4.6,3264,Zep Pipe Tools product suitable for industrial use.,1571583.36,False,High,High
+GRN-1045,Heavy Duty Drill,Safety Equipment,Hand Protection,3M,185.26,78,4.1,2379,3M Hand Protection product suitable for industrial use.,440733.54,False,Medium,Medium
+GRN-1046,Adjustable Wrench,Cleaning Supplies,Surface Cleaners,DeWalt,16.3,467,4.5,2466,DeWalt Surface Cleaners product suitable for industrial use.,40195.8,False,Medium,Low
+GRN-1047,Fire Extinguisher ABC,HVAC,Air Filters,Dayton,351.35,20,4.6,1913,Dayton Air Filters product suitable for industrial use.,672132.55,False,Medium,High
+GRN-1048,Pipe Wrench,Footwear,Work Boots,GE,112.31,473,4.8,3775,GE Work Boots product suitable for industrial use.,423970.25,False,High,Medium
+GRN-1049,LED Work Light,Plumbing,Pipe Tools,Eaton,341.17,48,4.3,2122,Eaton Pipe Tools product suitable for industrial use.,723962.74,False,Medium,High
+GRN-1050,"Tool Bag 18""",Electrical,Extension Cords,Grainger,438.26,6,4.5,1482,Grainger Extension Cords product suitable for industrial use.,649501.32,True,Low,High
+GRN-1051,LED Work Light,Lighting,Work Lights,Grainger,487.54,272,4.9,2308,Grainger Work Lights product suitable for industrial use.,1125242.32,False,Medium,High
+GRN-1052,LED Work Light,Compressed Air,Compressors,DeWalt,445.39,270,4.4,4397,DeWalt Compressors product suitable for industrial use.,1958379.8299999998,False,High,High
+GRN-1053,Industrial Cleaner,Tools Storage,Tool Bags,DeWalt,343.15,27,3.8,2479,DeWalt Tool Bags product suitable for industrial use.,850668.85,False,Medium,High
+GRN-1054,Heavy Duty Drill,Safety Equipment,Hand Protection,Zep,421.39,386,4.9,1243,Zep Hand Protection product suitable for industrial use.,523787.76999999996,False,Low,High
+GRN-1055,Safety Gloves - Large,Ladders & Scaff.,Step Ladders,Timberland PRO,72.3,456,4.0,4991,Timberland PRO Step Ladders product suitable for industrial use.,360849.3,False,High,Low
+GRN-1056,Air Filter 16x25x1,Power Tools,Screwdrivers,3M,62.51,80,4.5,2858,3M Screwdrivers product suitable for industrial use.,178653.58,False,Medium,Low
+GRN-1057,Portable Air Compressor,Cleaning Supplies,Surface Cleaners,Ansell,472.36,38,4.0,400,Ansell Surface Cleaners product suitable for industrial use.,188944.0,False,Low,High
+GRN-1058,Safety Gloves - Large,Footwear,Work Boots,Grainger,345.64,269,3.6,1376,Grainger Work Boots product suitable for industrial use.,475600.63999999996,False,Low,High
+GRN-1059,Pipe Wrench,Footwear,Work Boots,Kidde,453.26,181,4.3,329,Kidde Work Boots product suitable for industrial use.,149122.54,False,Low,High
+GRN-1060,LED Work Light,HVAC,Air Filters,Dayton,18.1,331,4.1,3422,Dayton Air Filters product suitable for industrial use.,61938.200000000004,False,High,Low
+GRN-1061,Heavy Duty Drill,Lighting,Work Lights,Ansell,89.42,400,4.9,4059,Ansell Work Lights product suitable for industrial use.,362955.78,False,High,Low
+GRN-1062,Portable Air Compressor,Power Tools,Screwdrivers,Zep,56.15,184,4.0,305,Zep Screwdrivers product suitable for industrial use.,17125.75,False,Low,Low
+GRN-1063,Industrial Cleaner,Ladders & Scaff.,Step Ladders,Timberland PRO,37.85,421,3.5,3527,Timberland PRO Step Ladders product suitable for industrial use.,133496.95,False,High,Low
+GRN-1064,Fire Extinguisher ABC,HVAC,Ventilation Fans,Timberland PRO,69.77,429,4.9,2663,Timberland PRO Ventilation Fans product suitable for industrial use.,185797.50999999998,False,Medium,Low
+GRN-1065,Oil-Resistant Boots,Cleaning Supplies,Surface Cleaners,Milwaukee,246.2,98,4.7,1792,Milwaukee Surface Cleaners product suitable for industrial use.,441190.39999999997,False,Medium,Medium
+GRN-1066,Ladder 6ft Fiberglass,HVAC,Air Filters,Eaton,437.81,365,4.9,3892,Eaton Air Filters product suitable for industrial use.,1703956.52,False,High,High
+GRN-1067,Industrial Cleaner,Power Tools,Wrenches,Dayton,41.81,289,3.9,172,Dayton Wrenches product suitable for industrial use.,7191.320000000001,False,Low,Low
+GRN-1068,"Industrial Fan 24""",Safety Equipment,Hand Protection,Timberland PRO,51.39,111,4.4,4848,Timberland PRO Hand Protection product suitable for industrial use.,249138.72,False,High,Low
+GRN-1069,Adjustable Wrench,Ladders & Scaff.,Step Ladders,Dayton,389.59,304,4.1,2728,Dayton Step Ladders product suitable for industrial use.,1062801.52,False,Medium,High
+GRN-1070,Ladder 6ft Fiberglass,Tools Storage,Tool Bags,Werner,227.82,385,4.4,949,Werner Tool Bags product suitable for industrial use.,216201.18,False,Low,Medium
+GRN-1071,LED Work Light,Plumbing,Pipe Tools,Grainger,417.77,286,4.8,996,Grainger Pipe Tools product suitable for industrial use.,416098.92,False,Low,High
+GRN-1072,Safety Gloves - Large,Electrical,Circuit Protection,Ansell,189.32,421,4.7,1648,Ansell Circuit Protection product suitable for industrial use.,311999.36,False,Medium,Medium
+GRN-1073,Pipe Wrench,Lighting,Work Lights,Grainger,280.69,351,4.1,1048,Grainger Work Lights product suitable for industrial use.,294163.12,False,Low,High
+GRN-1074,Safety Gloves - Large,Safety Equipment,Fire Safety,Eaton,217.25,459,4.3,150,Eaton Fire Safety product suitable for industrial use.,32587.5,False,Low,Medium
+GRN-1075,Portable Air Compressor,Power Tools,Wrenches,Timberland PRO,95.19,421,4.2,4016,Timberland PRO Wrenches product suitable for industrial use.,382283.04,False,High,Low
+GRN-1076,"Tool Bag 18""",Cleaning Supplies,Surface Cleaners,Timberland PRO,100.67,83,4.7,1525,Timberland PRO Surface Cleaners product suitable for industrial use.,153521.75,False,Medium,Medium
+GRN-1077,Industrial Cleaner,Safety Equipment,Hand Protection,Werner,337.38,390,4.7,4962,Werner Hand Protection product suitable for industrial use.,1674079.56,False,High,High
+GRN-1078,Oil-Resistant Boots,Cleaning Supplies,Surface Cleaners,Dayton,50.74,380,3.7,595,Dayton Surface Cleaners product suitable for industrial use.,30190.300000000003,False,Low,Low
+GRN-1079,LED Work Light,Lighting,Work Lights,DeWalt,146.98,436,4.1,1751,DeWalt Work Lights product suitable for industrial use.,257361.97999999998,False,Medium,Medium
+GRN-1080,LED Work Light,HVAC,Air Filters,Grainger,429.86,256,3.5,3988,Grainger Air Filters product suitable for industrial use.,1714281.6800000002,False,High,High
+GRN-1081,"Tool Bag 18""",Footwear,Work Boots,Dayton,334.7,486,4.6,2735,Dayton Work Boots product suitable for industrial use.,915404.5,False,Medium,High
+GRN-1082,Air Filter 16x25x1,Ladders & Scaff.,Step Ladders,DeWalt,416.96,466,3.5,3879,DeWalt Step Ladders product suitable for industrial use.,1617387.8399999999,False,High,High
+GRN-1083,Extension Cord 50ft,Lighting,Work Lights,Ansell,41.5,402,4.8,3726,Ansell Work Lights product suitable for industrial use.,154629.0,False,High,Low
+GRN-1084,Air Filter 16x25x1,Electrical,Extension Cords,3M,371.79,425,3.6,3675,3M Extension Cords product suitable for industrial use.,1366328.25,False,High,High
+GRN-1085,Adjustable Wrench,Safety Equipment,Fire Safety,Bosch,251.97,270,4.5,4751,Bosch Fire Safety product suitable for industrial use.,1197109.47,False,High,High
+GRN-1086,Fire Extinguisher ABC,Lighting,Work Lights,Zep,70.3,206,4.9,2981,Zep Work Lights product suitable for industrial use.,209564.3,False,Medium,Low
+GRN-1087,Ladder 6ft Fiberglass,Compressed Air,Compressors,Eaton,334.49,309,4.0,1016,Eaton Compressors product suitable for industrial use.,339841.84,False,Low,High
+GRN-1088,"Industrial Fan 24""",Plumbing,Pipe Tools,Milwaukee,164.02,368,4.9,2567,Milwaukee Pipe Tools product suitable for industrial use.,421039.34,False,Medium,Medium
+GRN-1089,Adjustable Wrench,Tools Storage,Tool Bags,DeWalt,45.74,437,3.6,1408,DeWalt Tool Bags product suitable for industrial use.,64401.920000000006,False,Low,Low
+GRN-1090,"Industrial Fan 24""",Ladders & Scaff.,Step Ladders,Werner,353.19,466,3.8,3079,Werner Step Ladders product suitable for industrial use.,1087472.01,False,High,High
+GRN-1091,Safety Gloves - Large,Plumbing,Pipe Tools,Timberland PRO,304.89,13,4.4,194,Timberland PRO Pipe Tools product suitable for industrial use.,59148.659999999996,True,Low,High
+GRN-1092,Air Filter 16x25x1,Cleaning Supplies,Surface Cleaners,Werner,232.24,80,3.9,1886,Werner Surface Cleaners product suitable for industrial use.,438004.64,False,Medium,Medium
+GRN-1093,Fire Extinguisher ABC,HVAC,Air Filters,Werner,333.01,266,4.4,1522,Werner Air Filters product suitable for industrial use.,506841.22,False,Medium,High
+GRN-1094,Adjustable Wrench,HVAC,Ventilation Fans,Dayton,141.07,373,4.0,1016,Dayton Ventilation Fans product suitable for industrial use.,143327.12,False,Low,Medium
+GRN-1095,Extension Cord 50ft,Footwear,Work Boots,GE,339.94,431,5.0,1008,GE Work Boots product suitable for industrial use.,342659.52,False,Low,High
+GRN-1096,Adjustable Wrench,Lighting,Work Lights,Dayton,141.59,324,3.6,1311,Dayton Work Lights product suitable for industrial use.,185624.49,False,Low,Medium
+GRN-1097,LED Work Light,Lighting,Work Lights,DeWalt,447.19,437,4.3,2580,DeWalt Work Lights product suitable for industrial use.,1153750.2,False,Medium,High
+GRN-1098,Air Filter 16x25x1,Safety Equipment,Hand Protection,Ansell,361.36,447,4.3,1016,Ansell Hand Protection product suitable for industrial use.,367141.76,False,Low,High
+GRN-1099,Oil-Resistant Boots,HVAC,Air Filters,GE,298.16,136,4.7,2033,GE Air Filters product suitable for industrial use.,606159.28,False,Medium,High
+GRN-1100,"Tool Bag 18""",Safety Equipment,Hand Protection,Milwaukee,159.24,292,4.0,742,Milwaukee Hand Protection product suitable for industrial use.,118156.08,False,Low,Medium
+GRN-1101,"Industrial Fan 24""",HVAC,Air Filters,Werner,468.25,259,3.9,2063,Werner Air Filters product suitable for industrial use.,965999.75,False,Medium,High
+GRN-1102,Extension Cord 50ft,Electrical,Circuit Protection,Bosch,132.79,486,3.7,2940,Bosch Circuit Protection product suitable for industrial use.,390402.6,False,Medium,Medium
+GRN-1103,Heavy Duty Drill,Compressed Air,Compressors,Milwaukee,192.57,11,4.2,3115,Milwaukee Compressors product suitable for industrial use.,599855.5499999999,True,High,Medium
+GRN-1104,Circuit Breaker 20A,Cleaning Supplies,Surface Cleaners,Kidde,199.92,390,4.1,2453,Kidde Surface Cleaners product suitable for industrial use.,490403.75999999995,False,Medium,Medium
+GRN-1105,Portable Air Compressor,Electrical,Extension Cords,3M,373.32,264,4.9,4462,3M Extension Cords product suitable for industrial use.,1665753.84,False,High,High
+GRN-1106,Heavy Duty Drill,Lighting,Work Lights,Ansell,354.9,7,4.8,2613,Ansell Work Lights product suitable for industrial use.,927353.7,True,Medium,High
+GRN-1107,Safety Gloves - Large,Ladders & Scaff.,Step Ladders,Zep,82.58,320,3.8,2091,Zep Step Ladders product suitable for industrial use.,172674.78,False,Medium,Low
+GRN-1108,Extension Cord 50ft,Plumbing,Pipe Tools,Timberland PRO,15.0,216,4.9,1578,Timberland PRO Pipe Tools product suitable for industrial use.,23670.0,False,Medium,Low
+GRN-1109,LED Work Light,Power Tools,Screwdrivers,Dayton,379.42,360,4.0,3403,Dayton Screwdrivers product suitable for industrial use.,1291166.26,False,High,High
+GRN-1110,"Tool Bag 18""",Ladders & Scaff.,Step Ladders,Timberland PRO,364.66,334,3.7,1314,Timberland PRO Step Ladders product suitable for industrial use.,479163.24000000005,False,Low,High
+GRN-1111,Adjustable Wrench,Power Tools,Screwdrivers,Werner,424.33,464,3.8,298,Werner Screwdrivers product suitable for industrial use.,126450.34,False,Low,High
+GRN-1112,Heavy Duty Drill,Lighting,Work Lights,Ansell,126.69,186,4.3,1570,Ansell Work Lights product suitable for industrial use.,198903.3,False,Medium,Medium
+GRN-1113,Industrial Cleaner,Footwear,Work Boots,Zep,62.12,458,4.7,618,Zep Work Boots product suitable for industrial use.,38390.159999999996,False,Low,Low
+GRN-1114,Heavy Duty Drill,Plumbing,Pipe Tools,Eaton,455.5,164,4.4,3522,Eaton Pipe Tools product suitable for industrial use.,1604271.0,False,High,High
+GRN-1115,Circuit Breaker 20A,Safety Equipment,Fire Safety,Ansell,217.05,318,4.2,3245,Ansell Fire Safety product suitable for industrial use.,704327.25,False,High,Medium
+GRN-1116,Extension Cord 50ft,HVAC,Air Filters,DeWalt,499.52,7,4.5,4404,DeWalt Air Filters product suitable for industrial use.,2199886.08,True,High,High
+GRN-1117,Portable Air Compressor,Plumbing,Pipe Tools,Milwaukee,462.87,108,4.8,4886,Milwaukee Pipe Tools product suitable for industrial use.,2261582.82,False,High,High
+GRN-1118,Industrial Cleaner,Safety Equipment,Hand Protection,Milwaukee,138.03,352,4.7,4264,Milwaukee Hand Protection product suitable for industrial use.,588559.92,False,High,Medium
+GRN-1119,Ladder 6ft Fiberglass,Compressed Air,Compressors,GE,153.57,202,3.8,294,GE Compressors product suitable for industrial use.,45149.579999999994,False,Low,Medium
+GRN-1120,"Tool Bag 18""",Compressed Air,Compressors,Werner,454.06,84,4.9,972,Werner Compressors product suitable for industrial use.,441346.32,False,Low,High
+GRN-1121,"Industrial Fan 24""",Power Tools,Drills,3M,337.0,315,4.3,810,3M Drills product suitable for industrial use.,272970.0,False,Low,High
+GRN-1122,Industrial Cleaner,Compressed Air,Compressors,GE,12.84,209,3.7,1260,GE Compressors product suitable for industrial use.,16178.4,False,Low,Low
+GRN-1123,Portable Air Compressor,Power Tools,Wrenches,Bosch,179.36,296,4.7,935,Bosch Wrenches product suitable for industrial use.,167701.6,False,Low,Medium
+GRN-1124,Adjustable Wrench,Lighting,Work Lights,Grainger,198.24,120,4.8,852,Grainger Work Lights product suitable for industrial use.,168900.48,False,Low,Medium
+GRN-1125,Oil-Resistant Boots,Lighting,Work Lights,Bosch,481.16,22,5.0,3453,Bosch Work Lights product suitable for industrial use.,1661445.48,False,High,High
+GRN-1126,Industrial Cleaner,Safety Equipment,Fire Safety,Timberland PRO,211.44,206,4.3,435,Timberland PRO Fire Safety product suitable for industrial use.,91976.4,False,Low,Medium
+GRN-1127,"Tool Bag 18""",Safety Equipment,Hand Protection,Zep,63.69,347,3.7,1770,Zep Hand Protection product suitable for industrial use.,112731.3,False,Medium,Low
+GRN-1128,Oil-Resistant Boots,Tools Storage,Tool Bags,3M,353.19,281,4.3,814,3M Tool Bags product suitable for industrial use.,287496.66,False,Low,High
+GRN-1129,Extension Cord 50ft,Power Tools,Screwdrivers,Werner,460.91,237,4.6,2574,Werner Screwdrivers product suitable for industrial use.,1186382.34,False,Medium,High
+GRN-1130,Safety Gloves - Large,Cleaning Supplies,Surface Cleaners,Milwaukee,21.83,225,4.1,1004,Milwaukee Surface Cleaners product suitable for industrial use.,21917.32,False,Low,Low
+GRN-1131,Circuit Breaker 20A,Lighting,Work Lights,Zep,226.19,378,3.5,4991,Zep Work Lights product suitable for industrial use.,1128914.29,False,High,Medium
+GRN-1132,Heavy Duty Drill,Power Tools,Drills,3M,15.47,278,4.4,2698,3M Drills product suitable for industrial use.,41738.060000000005,False,Medium,Low
+GRN-1133,Cordless Screwdriver,Plumbing,Pipe Tools,GE,429.04,326,3.7,319,GE Pipe Tools product suitable for industrial use.,136863.76,False,Low,High
+GRN-1134,Oil-Resistant Boots,Footwear,Work Boots,Kidde,213.36,334,4.9,1779,Kidde Work Boots product suitable for industrial use.,379567.44,False,Medium,Medium
+GRN-1135,Circuit Breaker 20A,Plumbing,Pipe Tools,Grainger,131.73,197,4.7,2901,Grainger Pipe Tools product suitable for industrial use.,382148.73,False,Medium,Medium
+GRN-1136,Circuit Breaker 20A,Compressed Air,Compressors,Kidde,165.0,4,4.8,4324,Kidde Compressors product suitable for industrial use.,713460.0,True,High,Medium
+GRN-1137,Pipe Wrench,Electrical,Circuit Protection,Milwaukee,150.67,439,4.5,2571,Milwaukee Circuit Protection product suitable for industrial use.,387372.56999999995,False,Medium,Medium
+GRN-1138,Oil-Resistant Boots,Plumbing,Pipe Tools,Dayton,341.19,446,3.9,2607,Dayton Pipe Tools product suitable for industrial use.,889482.33,False,Medium,High
+GRN-1139,Industrial Cleaner,Tools Storage,Tool Bags,Zep,182.36,295,4.1,3422,Zep Tool Bags product suitable for industrial use.,624035.92,False,High,Medium
+GRN-1140,Fire Extinguisher ABC,Cleaning Supplies,Surface Cleaners,Milwaukee,419.21,148,5.0,1383,Milwaukee Surface Cleaners product suitable for industrial use.,579767.4299999999,False,Low,High
+GRN-1141,LED Work Light,Lighting,Work Lights,GE,274.08,495,3.9,1167,GE Work Lights product suitable for industrial use.,319851.36,False,Low,High
+GRN-1142,Safety Gloves - Large,HVAC,Ventilation Fans,Dayton,231.26,327,3.8,708,Dayton Ventilation Fans product suitable for industrial use.,163732.08,False,Low,Medium
+GRN-1143,LED Work Light,Power Tools,Drills,Werner,272.08,9,4.4,4214,Werner Drills product suitable for industrial use.,1146545.1199999999,True,High,High
+GRN-1144,Ladder 6ft Fiberglass,Compressed Air,Compressors,Ansell,59.44,346,4.5,2747,Ansell Compressors product suitable for industrial use.,163281.68,False,Medium,Low
+GRN-1145,Pipe Wrench,Plumbing,Pipe Tools,Zep,276.68,208,4.6,4922,Zep Pipe Tools product suitable for industrial use.,1361818.96,False,High,High
+GRN-1146,Heavy Duty Drill,Electrical,Extension Cords,Milwaukee,79.44,206,4.5,3441,Milwaukee Extension Cords product suitable for industrial use.,273353.04,False,High,Low
+GRN-1147,Pipe Wrench,Safety Equipment,Hand Protection,Dayton,409.66,382,3.7,1361,Dayton Hand Protection product suitable for industrial use.,557547.26,False,Low,High
+GRN-1148,Pipe Wrench,Electrical,Circuit Protection,Dayton,229.27,99,4.1,4734,Dayton Circuit Protection product suitable for industrial use.,1085364.18,False,High,Medium
+GRN-1149,Ladder 6ft Fiberglass,Plumbing,Pipe Tools,Milwaukee,119.15,177,4.0,164,Milwaukee Pipe Tools product suitable for industrial use.,19540.600000000002,False,Low,Medium
+GRN-1150,Pipe Wrench,Cleaning Supplies,Surface Cleaners,DeWalt,455.84,29,3.7,655,DeWalt Surface Cleaners product suitable for industrial use.,298575.2,False,Low,High
+GRN-1151,Safety Gloves - Large,Footwear,Work Boots,3M,176.66,255,3.9,2362,3M Work Boots product suitable for industrial use.,417270.92,False,Medium,Medium
+GRN-1152,Industrial Cleaner,HVAC,Ventilation Fans,Eaton,298.51,225,3.7,4550,Eaton Ventilation Fans product suitable for industrial use.,1358220.5,False,High,High
+GRN-1153,Portable Air Compressor,Plumbing,Pipe Tools,Bosch,244.62,375,4.0,1078,Bosch Pipe Tools product suitable for industrial use.,263700.36,False,Low,Medium
+GRN-1154,Circuit Breaker 20A,Tools Storage,Tool Bags,Timberland PRO,411.01,276,4.2,2655,Timberland PRO Tool Bags product suitable for industrial use.,1091231.55,False,Medium,High
+GRN-1155,"Tool Bag 18""",Compressed Air,Compressors,3M,340.93,301,4.3,2935,3M Compressors product suitable for industrial use.,1000629.55,False,Medium,High
+GRN-1156,"Tool Bag 18""",Cleaning Supplies,Surface Cleaners,Ansell,317.04,437,3.9,3393,Ansell Surface Cleaners product suitable for industrial use.,1075716.72,False,High,High
+GRN-1157,"Industrial Fan 24""",Lighting,Work Lights,Werner,139.87,223,3.6,1657,Werner Work Lights product suitable for industrial use.,231764.59,False,Medium,Medium
+GRN-1158,Ladder 6ft Fiberglass,Power Tools,Drills,Dayton,443.04,177,3.7,4072,Dayton Drills product suitable for industrial use.,1804058.8800000001,False,High,High
+GRN-1159,Adjustable Wrench,Tools Storage,Tool Bags,Dayton,118.74,315,4.3,4271,Dayton Tool Bags product suitable for industrial use.,507138.54,False,High,Medium
+GRN-1160,LED Work Light,Footwear,Work Boots,Timberland PRO,210.46,59,4.5,261,Timberland PRO Work Boots product suitable for industrial use.,54930.060000000005,False,Low,Medium
+GRN-1161,"Industrial Fan 24""",Compressed Air,Compressors,DeWalt,279.71,268,4.5,4598,DeWalt Compressors product suitable for industrial use.,1286106.5799999998,False,High,High
+GRN-1162,Oil-Resistant Boots,Tools Storage,Tool Bags,Ansell,448.48,18,4.2,3512,Ansell Tool Bags product suitable for industrial use.,1575061.76,True,High,High
+GRN-1163,Safety Gloves - Large,Plumbing,Pipe Tools,Bosch,154.18,270,4.4,2020,Bosch Pipe Tools product suitable for industrial use.,311443.60000000003,False,Medium,Medium
+GRN-1164,Industrial Cleaner,HVAC,Air Filters,Timberland PRO,360.68,452,3.9,643,Timberland PRO Air Filters product suitable for industrial use.,231917.24,False,Low,High
+GRN-1165,Circuit Breaker 20A,Ladders & Scaff.,Step Ladders,3M,485.72,118,3.6,424,3M Step Ladders product suitable for industrial use.,205945.28,False,Low,High
+GRN-1166,Extension Cord 50ft,Compressed Air,Compressors,Dayton,364.56,96,4.7,4937,Dayton Compressors product suitable for industrial use.,1799832.72,False,High,High
+GRN-1167,Ladder 6ft Fiberglass,Tools Storage,Tool Bags,Werner,278.87,33,3.9,4532,Werner Tool Bags product suitable for industrial use.,1263838.84,False,High,High
+GRN-1168,Cordless Screwdriver,Footwear,Work Boots,DeWalt,203.44,308,3.8,3282,DeWalt Work Boots product suitable for industrial use.,667690.08,False,High,Medium
+GRN-1169,Oil-Resistant Boots,Tools Storage,Tool Bags,Eaton,150.26,295,4.6,2158,Eaton Tool Bags product suitable for industrial use.,324261.07999999996,False,Medium,Medium
+GRN-1170,Heavy Duty Drill,Compressed Air,Compressors,Bosch,344.71,143,3.9,1101,Bosch Compressors product suitable for industrial use.,379525.70999999996,False,Low,High
+GRN-1171,Safety Gloves - Large,Footwear,Work Boots,3M,127.22,370,4.6,1323,3M Work Boots product suitable for industrial use.,168312.06,False,Low,Medium
+GRN-1172,LED Work Light,Electrical,Circuit Protection,GE,177.41,39,3.7,3870,GE Circuit Protection product suitable for industrial use.,686576.7,False,High,Medium
+GRN-1173,Adjustable Wrench,Power Tools,Drills,Dayton,288.09,423,4.1,3083,Dayton Drills product suitable for industrial use.,888181.47,False,High,High
+GRN-1174,Portable Air Compressor,Footwear,Work Boots,Bosch,498.33,479,3.9,805,Bosch Work Boots product suitable for industrial use.,401155.64999999997,False,Low,High
+GRN-1175,Fire Extinguisher ABC,Ladders & Scaff.,Step Ladders,3M,360.21,43,4.6,960,3M Step Ladders product suitable for industrial use.,345801.6,False,Low,High
+GRN-1176,Industrial Cleaner,Plumbing,Pipe Tools,Ansell,433.22,43,3.8,3400,Ansell Pipe Tools product suitable for industrial use.,1472948.0,False,High,High
+GRN-1177,Oil-Resistant Boots,Lighting,Work Lights,Bosch,147.27,143,3.7,3833,Bosch Work Lights product suitable for industrial use.,564485.91,False,High,Medium
+GRN-1178,Heavy Duty Drill,Footwear,Work Boots,Werner,158.26,415,4.7,2920,Werner Work Boots product suitable for industrial use.,462119.19999999995,False,Medium,Medium
+GRN-1179,Air Filter 16x25x1,Lighting,Work Lights,GE,394.55,326,3.6,1676,GE Work Lights product suitable for industrial use.,661265.8,False,Medium,High
+GRN-1180,Ladder 6ft Fiberglass,Footwear,Work Boots,3M,271.28,31,3.5,920,3M Work Boots product suitable for industrial use.,249577.59999999998,False,Low,High
+GRN-1181,Air Filter 16x25x1,Compressed Air,Compressors,Kidde,460.36,457,4.0,2821,Kidde Compressors product suitable for industrial use.,1298675.56,False,Medium,High
+GRN-1182,Air Filter 16x25x1,Ladders & Scaff.,Step Ladders,Grainger,499.09,179,4.7,3213,Grainger Step Ladders product suitable for industrial use.,1603576.17,False,High,High
+GRN-1183,Extension Cord 50ft,Plumbing,Pipe Tools,Werner,450.93,420,4.1,4548,Werner Pipe Tools product suitable for industrial use.,2050829.6400000001,False,High,High
+GRN-1184,Safety Gloves - Large,Compressed Air,Compressors,Milwaukee,11.31,441,3.8,1078,Milwaukee Compressors product suitable for industrial use.,12192.18,False,Low,Low
+GRN-1185,Ladder 6ft Fiberglass,Footwear,Work Boots,Dayton,424.47,142,5.0,2426,Dayton Work Boots product suitable for industrial use.,1029764.2200000001,False,Medium,High
+GRN-1186,LED Work Light,Ladders & Scaff.,Step Ladders,DeWalt,498.2,265,4.3,1749,DeWalt Step Ladders product suitable for industrial use.,871351.7999999999,False,Medium,High
+GRN-1187,LED Work Light,Footwear,Work Boots,GE,348.83,341,3.9,4198,GE Work Boots product suitable for industrial use.,1464388.3399999999,False,High,High
+GRN-1188,Ladder 6ft Fiberglass,Plumbing,Pipe Tools,Timberland PRO,452.02,109,4.0,1899,Timberland PRO Pipe Tools product suitable for industrial use.,858385.98,False,Medium,High
+GRN-1189,Pipe Wrench,Tools Storage,Tool Bags,Eaton,278.51,110,4.1,1976,Eaton Tool Bags product suitable for industrial use.,550335.76,False,Medium,High
+GRN-1190,Industrial Cleaner,HVAC,Air Filters,Bosch,226.56,273,4.7,247,Bosch Air Filters product suitable for industrial use.,55960.32,False,Low,Medium
+GRN-1191,LED Work Light,Electrical,Extension Cords,Timberland PRO,477.35,35,4.0,2286,Timberland PRO Extension Cords product suitable for industrial use.,1091222.1,False,Medium,High
+GRN-1192,Circuit Breaker 20A,Cleaning Supplies,Surface Cleaners,Kidde,109.93,348,3.9,3973,Kidde Surface Cleaners product suitable for industrial use.,436751.89,False,High,Medium
+GRN-1193,Heavy Duty Drill,Electrical,Circuit Protection,GE,369.04,203,3.8,4373,GE Circuit Protection product suitable for industrial use.,1613811.9200000002,False,High,High
+GRN-1194,Safety Gloves - Large,Safety Equipment,Hand Protection,Dayton,372.68,91,4.1,3436,Dayton Hand Protection product suitable for industrial use.,1280528.48,False,High,High
+GRN-1195,Circuit Breaker 20A,Plumbing,Pipe Tools,Ansell,464.06,117,4.7,1159,Ansell Pipe Tools product suitable for industrial use.,537845.54,False,Low,High
+GRN-1196,Fire Extinguisher ABC,Safety Equipment,Fire Safety,Dayton,370.78,140,4.2,741,Dayton Fire Safety product suitable for industrial use.,274747.98,False,Low,High
+GRN-1197,Circuit Breaker 20A,Footwear,Work Boots,Ansell,119.19,386,4.0,4859,Ansell Work Boots product suitable for industrial use.,579144.21,False,High,Medium
+GRN-1198,Oil-Resistant Boots,Tools Storage,Tool Bags,3M,34.81,5,3.8,3901,3M Tool Bags product suitable for industrial use.,135793.81,True,High,Low
+GRN-1199,Pipe Wrench,Lighting,Work Lights,Bosch,454.08,42,3.6,508,Bosch Work Lights product suitable for industrial use.,230672.63999999998,False,Low,High
+GRN-1200,"Industrial Fan 24""",Compressed Air,Compressors,Zep,280.22,33,4.2,4549,Zep Compressors product suitable for industrial use.,1274720.78,False,High,High
+GRN-1201,Portable Air Compressor,Cleaning Supplies,Surface Cleaners,Werner,471.44,176,3.5,2472,Werner Surface Cleaners product suitable for industrial use.,1165399.68,False,Medium,High
+GRN-1202,Extension Cord 50ft,Electrical,Extension Cords,DeWalt,62.06,243,4.5,1377,DeWalt Extension Cords product suitable for industrial use.,85456.62000000001,False,Low,Low
+GRN-1203,LED Work Light,Plumbing,Pipe Tools,Ansell,103.78,231,4.5,1863,Ansell Pipe Tools product suitable for industrial use.,193342.14,False,Medium,Medium
+GRN-1204,Air Filter 16x25x1,Power Tools,Wrenches,Grainger,436.93,8,3.9,2167,Grainger Wrenches product suitable for industrial use.,946827.31,True,Medium,High
+GRN-1205,Circuit Breaker 20A,Compressed Air,Compressors,Milwaukee,309.78,321,4.2,3484,Milwaukee Compressors product suitable for industrial use.,1079273.52,False,High,High
+GRN-1206,LED Work Light,Tools Storage,Tool Bags,Zep,125.84,302,4.4,169,Zep Tool Bags product suitable for industrial use.,21266.96,False,Low,Medium
+GRN-1207,Circuit Breaker 20A,Cleaning Supplies,Surface Cleaners,Bosch,179.65,28,3.8,3665,Bosch Surface Cleaners product suitable for industrial use.,658417.25,False,High,Medium
+GRN-1208,"Tool Bag 18""",Ladders & Scaff.,Step Ladders,Timberland PRO,439.66,465,4.0,1386,Timberland PRO Step Ladders product suitable for industrial use.,609368.76,False,Low,High
+GRN-1209,LED Work Light,Compressed Air,Compressors,Zep,135.52,23,4.1,4157,Zep Compressors product suitable for industrial use.,563356.64,False,High,Medium
+GRN-1210,Safety Gloves - Large,Plumbing,Pipe Tools,Eaton,402.39,236,3.7,4377,Eaton Pipe Tools product suitable for industrial use.,1761261.03,False,High,High
+GRN-1211,Pipe Wrench,Cleaning Supplies,Surface Cleaners,Dayton,317.8,52,3.7,1931,Dayton Surface Cleaners product suitable for industrial use.,613671.8,False,Medium,High
+GRN-1212,Ladder 6ft Fiberglass,Tools Storage,Tool Bags,DeWalt,190.14,474,3.7,2815,DeWalt Tool Bags product suitable for industrial use.,535244.1,False,Medium,Medium
+GRN-1213,Adjustable Wrench,Power Tools,Screwdrivers,Kidde,368.39,278,4.8,4859,Kidde Screwdrivers product suitable for industrial use.,1790007.01,False,High,High
+GRN-1214,Ladder 6ft Fiberglass,Ladders & Scaff.,Step Ladders,Dayton,153.82,400,4.5,2644,Dayton Step Ladders product suitable for industrial use.,406700.07999999996,False,Medium,Medium
+GRN-1215,Circuit Breaker 20A,Safety Equipment,Fire Safety,Grainger,132.94,247,4.7,4935,Grainger Fire Safety product suitable for industrial use.,656058.9,False,High,Medium
+GRN-1216,"Tool Bag 18""",Ladders & Scaff.,Step Ladders,Ansell,33.7,181,4.4,535,Ansell Step Ladders product suitable for industrial use.,18029.5,False,Low,Low
+GRN-1217,Adjustable Wrench,Safety Equipment,Hand Protection,Zep,80.21,180,4.3,2741,Zep Hand Protection product suitable for industrial use.,219855.61,False,Medium,Low
+GRN-1218,LED Work Light,Power Tools,Wrenches,Werner,305.66,86,4.2,2438,Werner Wrenches product suitable for industrial use.,745199.0800000001,False,Medium,High
+GRN-1219,Ladder 6ft Fiberglass,Footwear,Work Boots,DeWalt,234.99,299,4.9,158,DeWalt Work Boots product suitable for industrial use.,37128.42,False,Low,Medium
+GRN-1220,Adjustable Wrench,Cleaning Supplies,Surface Cleaners,3M,35.03,182,4.8,2404,3M Surface Cleaners product suitable for industrial use.,84212.12000000001,False,Medium,Low
+GRN-1221,Circuit Breaker 20A,Lighting,Work Lights,DeWalt,223.68,107,4.1,131,DeWalt Work Lights product suitable for industrial use.,29302.08,False,Low,Medium
+GRN-1222,Circuit Breaker 20A,Electrical,Circuit Protection,Werner,21.55,476,4.2,516,Werner Circuit Protection product suitable for industrial use.,11119.800000000001,False,Low,Low
+GRN-1223,Extension Cord 50ft,Tools Storage,Tool Bags,GE,346.05,339,3.6,1889,GE Tool Bags product suitable for industrial use.,653688.4500000001,False,Medium,High
+GRN-1224,Portable Air Compressor,Power Tools,Drills,Werner,463.54,365,3.5,3802,Werner Drills product suitable for industrial use.,1762379.08,False,High,High
+GRN-1225,Cordless Screwdriver,Safety Equipment,Fire Safety,Milwaukee,92.42,11,4.9,490,Milwaukee Fire Safety product suitable for industrial use.,45285.8,True,Low,Low
+GRN-1226,Safety Gloves - Large,Plumbing,Pipe Tools,Grainger,470.3,281,4.1,3392,Grainger Pipe Tools product suitable for industrial use.,1595257.6,False,High,High
+GRN-1227,Adjustable Wrench,Compressed Air,Compressors,Werner,498.37,61,4.5,2806,Werner Compressors product suitable for industrial use.,1398426.22,False,Medium,High
+GRN-1228,Ladder 6ft Fiberglass,Ladders & Scaff.,Step Ladders,Ansell,440.36,408,3.7,1365,Ansell Step Ladders product suitable for industrial use.,601091.4,False,Low,High
+GRN-1229,Circuit Breaker 20A,Safety Equipment,Hand Protection,Werner,275.16,70,3.7,2704,Werner Hand Protection product suitable for industrial use.,744032.64,False,Medium,High
+GRN-1230,Oil-Resistant Boots,HVAC,Ventilation Fans,Bosch,463.47,259,4.1,4646,Bosch Ventilation Fans product suitable for industrial use.,2153281.62,False,High,High
+GRN-1231,Ladder 6ft Fiberglass,Footwear,Work Boots,Milwaukee,356.77,25,3.9,2515,Milwaukee Work Boots product suitable for industrial use.,897276.5499999999,False,Medium,High
+GRN-1232,"Tool Bag 18""",Footwear,Work Boots,DeWalt,440.22,102,3.9,340,DeWalt Work Boots product suitable for industrial use.,149674.80000000002,False,Low,High
+GRN-1233,LED Work Light,Ladders & Scaff.,Step Ladders,Zep,152.74,8,4.0,1708,Zep Step Ladders product suitable for industrial use.,260879.92,True,Medium,Medium
+GRN-1234,Portable Air Compressor,Ladders & Scaff.,Step Ladders,Kidde,354.93,196,4.8,3093,Kidde Step Ladders product suitable for industrial use.,1097798.49,False,High,High
+GRN-1235,Cordless Screwdriver,Power Tools,Drills,GE,310.96,351,4.1,2446,GE Drills product suitable for industrial use.,760608.1599999999,False,Medium,High
+GRN-1236,Extension Cord 50ft,Lighting,Work Lights,3M,437.19,443,3.7,3319,3M Work Lights product suitable for industrial use.,1451033.61,False,High,High
+GRN-1237,Pipe Wrench,Footwear,Work Boots,Eaton,331.47,254,5.0,906,Eaton Work Boots product suitable for industrial use.,300311.82,False,Low,High
+GRN-1238,Oil-Resistant Boots,Compressed Air,Compressors,3M,274.72,488,4.0,2186,3M Compressors product suitable for industrial use.,600537.92,False,Medium,High
+GRN-1239,Extension Cord 50ft,Compressed Air,Compressors,Ansell,199.37,10,4.8,815,Ansell Compressors product suitable for industrial use.,162486.55000000002,True,Low,Medium
+GRN-1240,Air Filter 16x25x1,Ladders & Scaff.,Step Ladders,Grainger,92.58,277,4.5,2727,Grainger Step Ladders product suitable for industrial use.,252465.66,False,Medium,Low
+GRN-1241,Extension Cord 50ft,Electrical,Extension Cords,Kidde,188.78,55,4.7,4699,Kidde Extension Cords product suitable for industrial use.,887077.22,False,High,Medium
+GRN-1242,Ladder 6ft Fiberglass,Tools Storage,Tool Bags,3M,240.87,484,3.6,1262,3M Tool Bags product suitable for industrial use.,303977.94,False,Low,Medium
+GRN-1243,Safety Gloves - Large,Electrical,Circuit Protection,3M,86.28,287,4.8,1836,3M Circuit Protection product suitable for industrial use.,158410.08000000002,False,Medium,Low
+GRN-1244,Industrial Cleaner,Plumbing,Pipe Tools,Timberland PRO,204.7,130,4.5,876,Timberland PRO Pipe Tools product suitable for industrial use.,179317.19999999998,False,Low,Medium
+GRN-1245,"Industrial Fan 24""",Electrical,Circuit Protection,3M,229.28,94,4.5,3695,3M Circuit Protection product suitable for industrial use.,847189.6,False,High,Medium
+GRN-1246,Portable Air Compressor,Power Tools,Screwdrivers,Werner,115.41,372,4.1,2408,Werner Screwdrivers product suitable for industrial use.,277907.27999999997,False,Medium,Medium
+GRN-1247,Industrial Cleaner,Ladders & Scaff.,Step Ladders,3M,32.88,105,4.9,4234,3M Step Ladders product suitable for industrial use.,139213.92,False,High,Low
+GRN-1248,Portable Air Compressor,HVAC,Air Filters,Milwaukee,105.24,156,4.7,4691,Milwaukee Air Filters product suitable for industrial use.,493680.83999999997,False,High,Medium
+GRN-1249,Cordless Screwdriver,Safety Equipment,Hand Protection,Timberland PRO,68.82,428,4.3,4529,Timberland PRO Hand Protection product suitable for industrial use.,311685.77999999997,False,High,Low
+GRN-1250,Adjustable Wrench,HVAC,Ventilation Fans,DeWalt,335.71,114,4.5,3477,DeWalt Ventilation Fans product suitable for industrial use.,1167263.67,False,High,High
+GRN-1251,Circuit Breaker 20A,Cleaning Supplies,Surface Cleaners,Werner,175.03,126,4.8,2436,Werner Surface Cleaners product suitable for industrial use.,426373.08,False,Medium,Medium
+GRN-1252,Circuit Breaker 20A,Power Tools,Screwdrivers,3M,142.13,466,4.5,4935,3M Screwdrivers product suitable for industrial use.,701411.5499999999,False,High,Medium
+GRN-1253,Safety Gloves - Large,Electrical,Circuit Protection,GE,368.31,92,4.4,3817,GE Circuit Protection product suitable for industrial use.,1405839.27,False,High,High
+GRN-1254,Ladder 6ft Fiberglass,Electrical,Extension Cords,Eaton,463.57,224,4.0,4171,Eaton Extension Cords product suitable for industrial use.,1933550.47,False,High,High
+GRN-1255,LED Work Light,Safety Equipment,Hand Protection,3M,154.54,392,4.3,2919,3M Hand Protection product suitable for industrial use.,451102.25999999995,False,Medium,Medium
+GRN-1256,Oil-Resistant Boots,Lighting,Work Lights,DeWalt,261.8,136,4.4,2578,DeWalt Work Lights product suitable for industrial use.,674920.4,False,Medium,High
+GRN-1257,Heavy Duty Drill,Safety Equipment,Hand Protection,Bosch,42.19,260,5.0,1503,Bosch Hand Protection product suitable for industrial use.,63411.57,False,Medium,Low
+GRN-1258,Adjustable Wrench,Electrical,Circuit Protection,Milwaukee,456.03,445,4.2,1756,Milwaukee Circuit Protection product suitable for industrial use.,800788.6799999999,False,Medium,High
+GRN-1259,"Tool Bag 18""",HVAC,Ventilation Fans,Eaton,283.57,430,4.5,4900,Eaton Ventilation Fans product suitable for industrial use.,1389493.0,False,High,High
+GRN-1260,Extension Cord 50ft,Tools Storage,Tool Bags,Dayton,47.95,432,4.7,834,Dayton Tool Bags product suitable for industrial use.,39990.3,False,Low,Low
+GRN-1261,Circuit Breaker 20A,Plumbing,Pipe Tools,Bosch,236.68,482,4.7,1180,Bosch Pipe Tools product suitable for industrial use.,279282.4,False,Low,Medium
+GRN-1262,Pipe Wrench,Lighting,Work Lights,Ansell,95.12,435,4.2,3044,Ansell Work Lights product suitable for industrial use.,289545.28,False,High,Low
+GRN-1263,Adjustable Wrench,Lighting,Work Lights,Bosch,248.88,460,4.6,2219,Bosch Work Lights product suitable for industrial use.,552264.72,False,Medium,Medium
+GRN-1264,"Tool Bag 18""",Cleaning Supplies,Surface Cleaners,Dayton,250.15,5,3.6,124,Dayton Surface Cleaners product suitable for industrial use.,31018.600000000002,True,Low,High
+GRN-1265,Industrial Cleaner,Cleaning Supplies,Surface Cleaners,3M,145.62,197,3.8,632,3M Surface Cleaners product suitable for industrial use.,92031.84,False,Low,Medium
+GRN-1266,Fire Extinguisher ABC,Footwear,Work Boots,Ansell,94.58,490,4.1,3021,Ansell Work Boots product suitable for industrial use.,285726.18,False,High,Low
+GRN-1267,Fire Extinguisher ABC,Cleaning Supplies,Surface Cleaners,Grainger,237.94,483,4.0,131,Grainger Surface Cleaners product suitable for industrial use.,31170.14,False,Low,Medium
+GRN-1268,Fire Extinguisher ABC,Ladders & Scaff.,Step Ladders,Grainger,290.37,428,4.1,3662,Grainger Step Ladders product suitable for industrial use.,1063334.94,False,High,High
+GRN-1269,"Industrial Fan 24""",Safety Equipment,Hand Protection,GE,104.69,310,4.5,3741,GE Hand Protection product suitable for industrial use.,391645.29,False,High,Medium
+GRN-1270,Adjustable Wrench,Plumbing,Pipe Tools,Kidde,473.65,156,4.6,3237,Kidde Pipe Tools product suitable for industrial use.,1533205.0499999998,False,High,High
+GRN-1271,Fire Extinguisher ABC,Electrical,Circuit Protection,Dayton,353.85,76,4.9,2140,Dayton Circuit Protection product suitable for industrial use.,757239.0,False,Medium,High
+GRN-1272,LED Work Light,Tools Storage,Tool Bags,Bosch,338.37,327,4.7,2944,Bosch Tool Bags product suitable for industrial use.,996161.28,False,Medium,High
+GRN-1273,Cordless Screwdriver,Plumbing,Pipe Tools,Timberland PRO,427.74,111,4.9,165,Timberland PRO Pipe Tools product suitable for industrial use.,70577.1,False,Low,High
+GRN-1274,Portable Air Compressor,Power Tools,Wrenches,Timberland PRO,188.61,306,4.4,4529,Timberland PRO Wrenches product suitable for industrial use.,854214.6900000001,False,High,Medium
+GRN-1275,LED Work Light,Electrical,Circuit Protection,Werner,405.27,258,4.2,929,Werner Circuit Protection product suitable for industrial use.,376495.82999999996,False,Low,High
+GRN-1276,Extension Cord 50ft,Ladders & Scaff.,Step Ladders,Eaton,263.33,461,4.2,440,Eaton Step Ladders product suitable for industrial use.,115865.2,False,Low,High
+GRN-1277,Circuit Breaker 20A,Compressed Air,Compressors,3M,87.26,57,3.6,4842,3M Compressors product suitable for industrial use.,422512.92000000004,False,High,Low
+GRN-1278,Safety Gloves - Large,HVAC,Ventilation Fans,GE,254.16,132,4.9,3127,GE Ventilation Fans product suitable for industrial use.,794758.32,False,High,High
+GRN-1279,LED Work Light,Lighting,Work Lights,Dayton,178.07,75,4.3,4403,Dayton Work Lights product suitable for industrial use.,784042.21,False,High,Medium
+GRN-1280,Fire Extinguisher ABC,Power Tools,Drills,GE,243.07,451,4.5,727,GE Drills product suitable for industrial use.,176711.88999999998,False,Low,Medium
+GRN-1281,Portable Air Compressor,Compressed Air,Compressors,3M,178.84,460,4.1,4677,3M Compressors product suitable for industrial use.,836434.68,False,High,Medium
+GRN-1282,Air Filter 16x25x1,Plumbing,Pipe Tools,Eaton,218.22,362,4.0,1508,Eaton Pipe Tools product suitable for industrial use.,329075.76,False,Medium,Medium
+GRN-1283,Circuit Breaker 20A,Lighting,Work Lights,DeWalt,176.02,45,4.5,360,DeWalt Work Lights product suitable for industrial use.,63367.200000000004,False,Low,Medium
+GRN-1284,"Industrial Fan 24""",Compressed Air,Compressors,Werner,207.15,49,4.8,1488,Werner Compressors product suitable for industrial use.,308239.2,False,Low,Medium
+GRN-1285,Extension Cord 50ft,Footwear,Work Boots,Eaton,105.98,80,4.9,227,Eaton Work Boots product suitable for industrial use.,24057.46,False,Low,Medium
+GRN-1286,Industrial Cleaner,Footwear,Work Boots,GE,443.9,419,4.1,518,GE Work Boots product suitable for industrial use.,229940.19999999998,False,Low,High
+GRN-1287,Pipe Wrench,Plumbing,Pipe Tools,Eaton,408.53,435,3.6,969,Eaton Pipe Tools product suitable for industrial use.,395865.56999999995,False,Low,High
+GRN-1288,Air Filter 16x25x1,HVAC,Ventilation Fans,GE,102.37,284,4.2,426,GE Ventilation Fans product suitable for industrial use.,43609.62,False,Low,Medium
+GRN-1289,Fire Extinguisher ABC,Lighting,Work Lights,Timberland PRO,231.93,349,3.8,2054,Timberland PRO Work Lights product suitable for industrial use.,476384.22000000003,False,Medium,Medium
+GRN-1290,Circuit Breaker 20A,HVAC,Air Filters,Kidde,368.66,263,3.7,339,Kidde Air Filters product suitable for industrial use.,124975.74,False,Low,High
+GRN-1291,Cordless Screwdriver,Ladders & Scaff.,Step Ladders,Dayton,106.06,243,4.8,4597,Dayton Step Ladders product suitable for industrial use.,487557.82,False,High,Medium
+GRN-1292,Portable Air Compressor,Safety Equipment,Hand Protection,GE,61.76,478,4.5,4850,GE Hand Protection product suitable for industrial use.,299536.0,False,High,Low
+GRN-1293,Oil-Resistant Boots,Footwear,Work Boots,Eaton,430.88,272,4.1,4024,Eaton Work Boots product suitable for industrial use.,1733861.1199999999,False,High,High
+GRN-1294,Cordless Screwdriver,Cleaning Supplies,Surface Cleaners,Bosch,227.42,364,4.3,2237,Bosch Surface Cleaners product suitable for industrial use.,508738.54,False,Medium,Medium
+GRN-1295,Safety Gloves - Large,Ladders & Scaff.,Step Ladders,DeWalt,181.41,399,4.9,3255,DeWalt Step Ladders product suitable for industrial use.,590489.55,False,High,Medium
+GRN-1296,"Tool Bag 18""",Footwear,Work Boots,Timberland PRO,334.24,68,4.3,3132,Timberland PRO Work Boots product suitable for industrial use.,1046839.68,False,High,High
+GRN-1297,Portable Air Compressor,Plumbing,Pipe Tools,3M,109.01,388,4.1,2567,3M Pipe Tools product suitable for industrial use.,279828.67000000004,False,Medium,Medium
+GRN-1298,Heavy Duty Drill,Ladders & Scaff.,Step Ladders,Eaton,351.82,283,4.2,828,Eaton Step Ladders product suitable for industrial use.,291306.96,False,Low,High
+GRN-1299,Extension Cord 50ft,Cleaning Supplies,Surface Cleaners,Dayton,425.43,48,3.8,4994,Dayton Surface Cleaners product suitable for industrial use.,2124597.42,False,High,High
+GRN-1300,Portable Air Compressor,Cleaning Supplies,Surface Cleaners,Grainger,425.99,405,4.4,564,Grainger Surface Cleaners product suitable for industrial use.,240258.36000000002,False,Low,High
+GRN-1301,Fire Extinguisher ABC,Power Tools,Wrenches,Kidde,248.92,354,4.7,1446,Kidde Wrenches product suitable for industrial use.,359938.32,False,Low,Medium
+GRN-1302,Industrial Cleaner,Tools Storage,Tool Bags,Timberland PRO,67.36,152,4.8,1332,Timberland PRO Tool Bags product suitable for industrial use.,89723.52,False,Low,Low
+GRN-1303,Oil-Resistant Boots,Plumbing,Pipe Tools,Eaton,161.86,436,4.5,724,Eaton Pipe Tools product suitable for industrial use.,117186.64000000001,False,Low,Medium
+GRN-1304,Extension Cord 50ft,Tools Storage,Tool Bags,DeWalt,285.85,388,4.8,3450,DeWalt Tool Bags product suitable for industrial use.,986182.5000000001,False,High,High
+GRN-1305,Extension Cord 50ft,Safety Equipment,Hand Protection,GE,126.85,190,4.5,1112,GE Hand Protection product suitable for industrial use.,141057.19999999998,False,Low,Medium
+GRN-1306,Extension Cord 50ft,Safety Equipment,Hand Protection,Milwaukee,451.43,10,4.5,1408,Milwaukee Hand Protection product suitable for industrial use.,635613.4400000001,True,Low,High
+GRN-1307,Safety Gloves - Large,Electrical,Circuit Protection,Bosch,96.83,155,4.6,3727,Bosch Circuit Protection product suitable for industrial use.,360885.41,False,High,Low
+GRN-1308,Ladder 6ft Fiberglass,Safety Equipment,Fire Safety,Werner,23.03,360,4.5,4145,Werner Fire Safety product suitable for industrial use.,95459.35,False,High,Low
+GRN-1309,Industrial Cleaner,Safety Equipment,Fire Safety,Werner,263.94,352,4.4,749,Werner Fire Safety product suitable for industrial use.,197691.06,False,Low,High
+GRN-1310,Circuit Breaker 20A,Plumbing,Pipe Tools,Kidde,365.58,437,3.6,3088,Kidde Pipe Tools product suitable for industrial use.,1128911.04,False,High,High
+GRN-1311,Fire Extinguisher ABC,Plumbing,Pipe Tools,Eaton,190.15,187,4.7,891,Eaton Pipe Tools product suitable for industrial use.,169423.65,False,Low,Medium
+GRN-1312,Pipe Wrench,Plumbing,Pipe Tools,Milwaukee,81.99,385,4.5,3895,Milwaukee Pipe Tools product suitable for industrial use.,319351.05,False,High,Low
+GRN-1313,Circuit Breaker 20A,Tools Storage,Tool Bags,Dayton,294.85,454,4.5,3489,Dayton Tool Bags product suitable for industrial use.,1028731.65,False,High,High
+GRN-1314,Adjustable Wrench,Ladders & Scaff.,Step Ladders,Timberland PRO,282.4,186,4.4,542,Timberland PRO Step Ladders product suitable for industrial use.,153060.8,False,Low,High
+GRN-1315,Oil-Resistant Boots,Power Tools,Drills,GE,493.65,476,3.6,536,GE Drills product suitable for industrial use.,264596.39999999997,False,Low,High
+GRN-1316,Oil-Resistant Boots,Plumbing,Pipe Tools,Eaton,451.06,485,4.7,2508,Eaton Pipe Tools product suitable for industrial use.,1131258.48,False,Medium,High
+GRN-1317,Extension Cord 50ft,Ladders & Scaff.,Step Ladders,Grainger,365.15,500,4.1,1849,Grainger Step Ladders product suitable for industrial use.,675162.35,False,Medium,High
+GRN-1318,Extension Cord 50ft,Compressed Air,Compressors,Werner,38.8,315,4.7,4963,Werner Compressors product suitable for industrial use.,192564.4,False,High,Low
+GRN-1319,Extension Cord 50ft,Plumbing,Pipe Tools,Eaton,291.25,430,4.3,1035,Eaton Pipe Tools product suitable for industrial use.,301443.75,False,Low,High
+GRN-1320,Safety Gloves - Large,Cleaning Supplies,Surface Cleaners,Kidde,10.07,212,4.5,4641,Kidde Surface Cleaners product suitable for industrial use.,46734.87,False,High,Low
+GRN-1321,Pipe Wrench,Lighting,Work Lights,Ansell,468.47,380,4.0,550,Ansell Work Lights product suitable for industrial use.,257658.50000000003,False,Low,High
+GRN-1322,Heavy Duty Drill,Lighting,Work Lights,3M,10.46,467,3.8,2798,3M Work Lights product suitable for industrial use.,29267.08,False,Medium,Low
+GRN-1323,Cordless Screwdriver,Ladders & Scaff.,Step Ladders,3M,307.75,271,4.8,1816,3M Step Ladders product suitable for industrial use.,558874.0,False,Medium,High
+GRN-1324,Adjustable Wrench,Tools Storage,Tool Bags,Bosch,206.19,318,3.7,4077,Bosch Tool Bags product suitable for industrial use.,840636.63,False,High,Medium
+GRN-1325,Ladder 6ft Fiberglass,Compressed Air,Compressors,Grainger,335.75,485,4.2,4257,Grainger Compressors product suitable for industrial use.,1429287.75,False,High,High
+GRN-1326,Circuit Breaker 20A,Lighting,Work Lights,Grainger,342.39,252,4.5,2438,Grainger Work Lights product suitable for industrial use.,834746.82,False,Medium,High
+GRN-1327,"Industrial Fan 24""",Compressed Air,Compressors,3M,33.24,15,4.1,568,3M Compressors product suitable for industrial use.,18880.32,True,Low,Low
+GRN-1328,Pipe Wrench,Compressed Air,Compressors,Kidde,265.84,17,4.6,2969,Kidde Compressors product suitable for industrial use.,789278.96,True,Medium,High
+GRN-1329,LED Work Light,Ladders & Scaff.,Step Ladders,3M,112.85,242,4.8,1407,3M Step Ladders product suitable for industrial use.,158779.94999999998,False,Low,Medium
+GRN-1330,Pipe Wrench,HVAC,Ventilation Fans,Bosch,151.66,438,3.6,2484,Bosch Ventilation Fans product suitable for industrial use.,376723.44,False,Medium,Medium
+GRN-1331,Cordless Screwdriver,Cleaning Supplies,Surface Cleaners,Milwaukee,231.61,441,3.7,3779,Milwaukee Surface Cleaners product suitable for industrial use.,875254.1900000001,False,High,Medium
+GRN-1332,Safety Gloves - Large,Cleaning Supplies,Surface Cleaners,Eaton,157.05,464,4.3,669,Eaton Surface Cleaners product suitable for industrial use.,105066.45000000001,False,Low,Medium
+GRN-1333,Pipe Wrench,Plumbing,Pipe Tools,Ansell,196.81,499,4.9,4245,Ansell Pipe Tools product suitable for industrial use.,835458.45,False,High,Medium
+GRN-1334,Pipe Wrench,Electrical,Extension Cords,GE,300.18,5,4.6,2225,GE Extension Cords product suitable for industrial use.,667900.5,True,Medium,High
+GRN-1335,"Industrial Fan 24""",Plumbing,Pipe Tools,DeWalt,263.26,285,3.7,3829,DeWalt Pipe Tools product suitable for industrial use.,1008022.5399999999,False,High,High
+GRN-1336,"Industrial Fan 24""",Lighting,Work Lights,Dayton,55.53,85,4.7,344,Dayton Work Lights product suitable for industrial use.,19102.32,False,Low,Low
+GRN-1337,Portable Air Compressor,Compressed Air,Compressors,DeWalt,340.92,278,4.4,1018,DeWalt Compressors product suitable for industrial use.,347056.56,False,Low,High
+GRN-1338,"Tool Bag 18""",Compressed Air,Compressors,Eaton,425.53,486,3.8,1808,Eaton Compressors product suitable for industrial use.,769358.24,False,Medium,High
+GRN-1339,Safety Gloves - Large,Power Tools,Wrenches,DeWalt,308.78,299,4.8,246,DeWalt Wrenches product suitable for industrial use.,75959.87999999999,False,Low,High
+GRN-1340,"Tool Bag 18""",Power Tools,Screwdrivers,Dayton,213.56,217,3.9,792,Dayton Screwdrivers product suitable for industrial use.,169139.52,False,Low,Medium
+GRN-1341,Pipe Wrench,Footwear,Work Boots,Kidde,143.42,328,4.8,2635,Kidde Work Boots product suitable for industrial use.,377911.69999999995,False,Medium,Medium
+GRN-1342,Pipe Wrench,Electrical,Extension Cords,Milwaukee,367.42,470,4.3,1577,Milwaukee Extension Cords product suitable for industrial use.,579421.34,False,Medium,High
+GRN-1343,"Tool Bag 18""",Ladders & Scaff.,Step Ladders,Ansell,416.56,362,4.8,4974,Ansell Step Ladders product suitable for industrial use.,2071969.44,False,High,High
+GRN-1344,LED Work Light,Safety Equipment,Hand Protection,Zep,477.66,293,4.0,2794,Zep Hand Protection product suitable for industrial use.,1334582.04,False,Medium,High
+GRN-1345,LED Work Light,HVAC,Air Filters,GE,473.7,277,3.9,3604,GE Air Filters product suitable for industrial use.,1707214.8,False,High,High
+GRN-1346,Fire Extinguisher ABC,Safety Equipment,Fire Safety,DeWalt,444.27,362,3.6,3112,DeWalt Fire Safety product suitable for industrial use.,1382568.24,False,High,High
+GRN-1347,Safety Gloves - Large,Plumbing,Pipe Tools,Eaton,120.25,36,4.9,1729,Eaton Pipe Tools product suitable for industrial use.,207912.25,False,Medium,Medium
+GRN-1348,"Tool Bag 18""",Plumbing,Pipe Tools,Milwaukee,110.59,343,4.2,4719,Milwaukee Pipe Tools product suitable for industrial use.,521874.21,False,High,Medium
+GRN-1349,"Industrial Fan 24""",Plumbing,Pipe Tools,Bosch,403.56,221,4.1,3428,Bosch Pipe Tools product suitable for industrial use.,1383403.68,False,High,High
+GRN-1350,Heavy Duty Drill,Ladders & Scaff.,Step Ladders,Eaton,256.35,237,3.6,4065,Eaton Step Ladders product suitable for industrial use.,1042062.7500000001,False,High,High
+GRN-1351,LED Work Light,Footwear,Work Boots,3M,250.56,220,3.8,2911,3M Work Boots product suitable for industrial use.,729380.16,False,Medium,High
+GRN-1352,Circuit Breaker 20A,Plumbing,Pipe Tools,Timberland PRO,236.92,261,3.8,141,Timberland PRO Pipe Tools product suitable for industrial use.,33405.72,False,Low,Medium
+GRN-1353,Pipe Wrench,Cleaning Supplies,Surface Cleaners,Grainger,19.12,92,4.3,4593,Grainger Surface Cleaners product suitable for industrial use.,87818.16,False,High,Low
+GRN-1354,Cordless Screwdriver,Plumbing,Pipe Tools,Ansell,425.75,177,3.6,1191,Ansell Pipe Tools product suitable for industrial use.,507068.25,False,Low,High
+GRN-1355,Oil-Resistant Boots,Compressed Air,Compressors,Werner,200.06,430,4.6,410,Werner Compressors product suitable for industrial use.,82024.6,False,Low,Medium
+GRN-1356,"Tool Bag 18""",Ladders & Scaff.,Step Ladders,Werner,220.27,388,4.3,4311,Werner Step Ladders product suitable for industrial use.,949583.9700000001,False,High,Medium
+GRN-1357,Ladder 6ft Fiberglass,Plumbing,Pipe Tools,Grainger,333.3,104,3.6,4416,Grainger Pipe Tools product suitable for industrial use.,1471852.8,False,High,High
+GRN-1358,LED Work Light,Footwear,Work Boots,Ansell,405.72,154,4.7,1151,Ansell Work Boots product suitable for industrial use.,466983.72000000003,False,Low,High
+GRN-1359,"Tool Bag 18""",Electrical,Extension Cords,3M,435.56,14,4.3,4637,3M Extension Cords product suitable for industrial use.,2019691.72,True,High,High
+GRN-1360,Cordless Screwdriver,HVAC,Air Filters,Dayton,199.05,361,3.8,594,Dayton Air Filters product suitable for industrial use.,118235.70000000001,False,Low,Medium
+GRN-1361,Oil-Resistant Boots,Compressed Air,Compressors,Milwaukee,154.59,90,3.6,4687,Milwaukee Compressors product suitable for industrial use.,724563.33,False,High,Medium
+GRN-1362,Industrial Cleaner,Footwear,Work Boots,Grainger,297.52,281,4.0,2829,Grainger Work Boots product suitable for industrial use.,841684.08,False,Medium,High
+GRN-1363,Pipe Wrench,Plumbing,Pipe Tools,Timberland PRO,421.34,124,4.4,1504,Timberland PRO Pipe Tools product suitable for industrial use.,633695.36,False,Medium,High
+GRN-1364,Circuit Breaker 20A,Cleaning Supplies,Surface Cleaners,Eaton,433.53,181,4.6,1185,Eaton Surface Cleaners product suitable for industrial use.,513733.05,False,Low,High
+GRN-1365,LED Work Light,Electrical,Circuit Protection,Dayton,274.53,343,4.0,3114,Dayton Circuit Protection product suitable for industrial use.,854886.4199999999,False,High,High
+GRN-1366,Adjustable Wrench,Safety Equipment,Fire Safety,GE,195.95,277,4.0,1829,GE Fire Safety product suitable for industrial use.,358392.55,False,Medium,Medium
+GRN-1367,Circuit Breaker 20A,Compressed Air,Compressors,Ansell,175.41,36,4.0,4848,Ansell Compressors product suitable for industrial use.,850387.6799999999,False,High,Medium
+GRN-1368,Oil-Resistant Boots,Safety Equipment,Fire Safety,Timberland PRO,217.29,264,5.0,2833,Timberland PRO Fire Safety product suitable for industrial use.,615582.57,False,Medium,Medium
+GRN-1369,Air Filter 16x25x1,Cleaning Supplies,Surface Cleaners,3M,361.79,456,5.0,3654,3M Surface Cleaners product suitable for industrial use.,1321980.6600000001,False,High,High
+GRN-1370,Safety Gloves - Large,HVAC,Ventilation Fans,Eaton,284.07,349,4.5,1658,Eaton Ventilation Fans product suitable for industrial use.,470988.06,False,Medium,High
+GRN-1371,"Tool Bag 18""",Electrical,Extension Cords,Ansell,279.57,317,4.8,4501,Ansell Extension Cords product suitable for industrial use.,1258344.57,False,High,High
+GRN-1372,Industrial Cleaner,Ladders & Scaff.,Step Ladders,Timberland PRO,67.93,448,4.1,1852,Timberland PRO Step Ladders product suitable for industrial use.,125806.36000000002,False,Medium,Low
+GRN-1373,LED Work Light,Power Tools,Drills,Grainger,144.91,444,4.5,3401,Grainger Drills product suitable for industrial use.,492838.91,False,High,Medium
+GRN-1374,Industrial Cleaner,HVAC,Air Filters,DeWalt,320.99,157,4.7,2604,DeWalt Air Filters product suitable for industrial use.,835857.9600000001,False,Medium,High
+GRN-1375,Air Filter 16x25x1,Compressed Air,Compressors,GE,474.98,328,4.6,2972,GE Compressors product suitable for industrial use.,1411640.56,False,Medium,High
+GRN-1376,Safety Gloves - Large,Lighting,Work Lights,Ansell,222.97,224,4.8,2554,Ansell Work Lights product suitable for industrial use.,569465.38,False,Medium,Medium
+GRN-1377,"Industrial Fan 24""",Ladders & Scaff.,Step Ladders,Zep,40.55,42,3.7,293,Zep Step Ladders product suitable for industrial use.,11881.15,False,Low,Low
+GRN-1378,Adjustable Wrench,HVAC,Ventilation Fans,Bosch,186.76,383,4.6,3602,Bosch Ventilation Fans product suitable for industrial use.,672709.52,False,High,Medium
+GRN-1379,Adjustable Wrench,Cleaning Supplies,Surface Cleaners,Kidde,481.45,361,4.6,2436,Kidde Surface Cleaners product suitable for industrial use.,1172812.2,False,Medium,High
+GRN-1380,Industrial Cleaner,Ladders & Scaff.,Step Ladders,Timberland PRO,161.88,433,4.3,4273,Timberland PRO Step Ladders product suitable for industrial use.,691713.24,False,High,Medium
+GRN-1381,Extension Cord 50ft,Cleaning Supplies,Surface Cleaners,GE,424.8,112,3.9,4144,GE Surface Cleaners product suitable for industrial use.,1760371.2,False,High,High
+GRN-1382,Air Filter 16x25x1,Ladders & Scaff.,Step Ladders,Eaton,329.15,118,3.6,2358,Eaton Step Ladders product suitable for industrial use.,776135.7,False,Medium,High
+GRN-1383,Cordless Screwdriver,Power Tools,Screwdrivers,Eaton,352.98,390,3.5,2199,Eaton Screwdrivers product suitable for industrial use.,776203.02,False,Medium,High
+GRN-1384,"Industrial Fan 24""",Lighting,Work Lights,Zep,387.38,24,3.8,4874,Zep Work Lights product suitable for industrial use.,1888090.1199999999,False,High,High
+GRN-1385,Oil-Resistant Boots,Ladders & Scaff.,Step Ladders,Timberland PRO,489.38,181,3.8,1051,Timberland PRO Step Ladders product suitable for industrial use.,514338.38,False,Low,High
+GRN-1386,Portable Air Compressor,Ladders & Scaff.,Step Ladders,Kidde,486.31,300,4.3,3597,Kidde Step Ladders product suitable for industrial use.,1749257.07,False,High,High
+GRN-1387,Pipe Wrench,Safety Equipment,Hand Protection,GE,410.66,178,5.0,4751,GE Hand Protection product suitable for industrial use.,1951045.6600000001,False,High,High
+GRN-1388,Oil-Resistant Boots,HVAC,Ventilation Fans,Zep,306.01,80,4.4,3854,Zep Ventilation Fans product suitable for industrial use.,1179362.54,False,High,High
+GRN-1389,Adjustable Wrench,Plumbing,Pipe Tools,Milwaukee,419.53,174,4.7,348,Milwaukee Pipe Tools product suitable for industrial use.,145996.44,False,Low,High
+GRN-1390,Adjustable Wrench,Compressed Air,Compressors,Eaton,60.94,96,4.3,2564,Eaton Compressors product suitable for industrial use.,156250.16,False,Medium,Low
+GRN-1391,Industrial Cleaner,Power Tools,Wrenches,Zep,273.69,15,4.0,3769,Zep Wrenches product suitable for industrial use.,1031537.61,True,High,High
+GRN-1392,"Industrial Fan 24""",Tools Storage,Tool Bags,Grainger,207.99,85,4.5,2807,Grainger Tool Bags product suitable for industrial use.,583827.93,False,Medium,Medium
+GRN-1393,Cordless Screwdriver,Plumbing,Pipe Tools,Milwaukee,391.39,127,4.7,869,Milwaukee Pipe Tools product suitable for industrial use.,340117.91,False,Low,High
+GRN-1394,Adjustable Wrench,Electrical,Circuit Protection,Zep,280.02,280,4.9,4252,Zep Circuit Protection product suitable for industrial use.,1190645.04,False,High,High
+GRN-1395,Circuit Breaker 20A,Electrical,Extension Cords,GE,177.29,96,4.1,2971,GE Extension Cords product suitable for industrial use.,526728.59,False,Medium,Medium
+GRN-1396,"Tool Bag 18""",Compressed Air,Compressors,Milwaukee,375.06,171,3.6,2104,Milwaukee Compressors product suitable for industrial use.,789126.24,False,Medium,High
+GRN-1397,"Industrial Fan 24""",Compressed Air,Compressors,Eaton,198.92,27,4.3,1278,Eaton Compressors product suitable for industrial use.,254219.75999999998,False,Low,Medium
+GRN-1398,Industrial Cleaner,Plumbing,Pipe Tools,Eaton,233.7,366,4.5,1008,Eaton Pipe Tools product suitable for industrial use.,235569.59999999998,False,Low,Medium
+GRN-1399,Safety Gloves - Large,HVAC,Ventilation Fans,Werner,391.53,415,4.3,2933,Werner Ventilation Fans product suitable for industrial use.,1148357.49,False,Medium,High
+GRN-1400,Adjustable Wrench,Power Tools,Wrenches,3M,33.76,54,4.2,989,3M Wrenches product suitable for industrial use.,33388.64,False,Low,Low
+GRN-1401,Air Filter 16x25x1,Compressed Air,Compressors,Kidde,131.27,318,4.6,2423,Kidde Compressors product suitable for industrial use.,318067.21,False,Medium,Medium
+GRN-1402,"Tool Bag 18""",Compressed Air,Compressors,Timberland PRO,228.07,261,4.0,829,Timberland PRO Compressors product suitable for industrial use.,189070.03,False,Low,Medium
+GRN-1403,Oil-Resistant Boots,Electrical,Extension Cords,Bosch,494.8,53,3.9,1375,Bosch Extension Cords product suitable for industrial use.,680350.0,False,Low,High
+GRN-1404,Industrial Cleaner,HVAC,Air Filters,GE,107.92,218,4.8,2061,GE Air Filters product suitable for industrial use.,222423.12,False,Medium,Medium
+GRN-1405,Industrial Cleaner,Electrical,Extension Cords,Eaton,310.68,124,4.4,2440,Eaton Extension Cords product suitable for industrial use.,758059.2000000001,False,Medium,High
+GRN-1406,Air Filter 16x25x1,Lighting,Work Lights,Grainger,230.72,95,5.0,3712,Grainger Work Lights product suitable for industrial use.,856432.64,False,High,Medium
+GRN-1407,Circuit Breaker 20A,Compressed Air,Compressors,3M,127.48,459,3.8,708,3M Compressors product suitable for industrial use.,90255.84,False,Low,Medium
+GRN-1408,Adjustable Wrench,Ladders & Scaff.,Step Ladders,DeWalt,74.21,160,4.8,968,DeWalt Step Ladders product suitable for industrial use.,71835.28,False,Low,Low
+GRN-1409,Pipe Wrench,Plumbing,Pipe Tools,Ansell,428.97,217,4.4,4456,Ansell Pipe Tools product suitable for industrial use.,1911490.32,False,High,High
+GRN-1410,Adjustable Wrench,Lighting,Work Lights,Werner,13.73,418,4.5,356,Werner Work Lights product suitable for industrial use.,4887.88,False,Low,Low
+GRN-1411,Industrial Cleaner,Footwear,Work Boots,Grainger,73.88,482,4.5,407,Grainger Work Boots product suitable for industrial use.,30069.16,False,Low,Low
+GRN-1412,Heavy Duty Drill,Electrical,Circuit Protection,GE,216.36,254,4.9,4904,GE Circuit Protection product suitable for industrial use.,1061029.4400000002,False,High,Medium
+GRN-1413,Oil-Resistant Boots,Safety Equipment,Fire Safety,3M,409.36,230,4.8,2639,3M Fire Safety product suitable for industrial use.,1080301.04,False,Medium,High
+GRN-1414,Extension Cord 50ft,Plumbing,Pipe Tools,3M,18.24,49,3.6,4409,3M Pipe Tools product suitable for industrial use.,80420.15999999999,False,High,Low
+GRN-1415,Cordless Screwdriver,Electrical,Circuit Protection,GE,309.08,331,4.9,794,GE Circuit Protection product suitable for industrial use.,245409.52,False,Low,High
+GRN-1416,Cordless Screwdriver,Cleaning Supplies,Surface Cleaners,Bosch,87.18,31,4.7,809,Bosch Surface Cleaners product suitable for industrial use.,70528.62000000001,False,Low,Low
+GRN-1417,LED Work Light,Safety Equipment,Fire Safety,Dayton,402.35,25,4.1,4401,Dayton Fire Safety product suitable for industrial use.,1770742.35,False,High,High
+GRN-1418,Pipe Wrench,Power Tools,Wrenches,GE,465.17,405,3.9,1784,GE Wrenches product suitable for industrial use.,829863.28,False,Medium,High
+GRN-1419,Oil-Resistant Boots,Lighting,Work Lights,3M,287.45,282,3.6,3609,3M Work Lights product suitable for industrial use.,1037407.0499999999,False,High,High
+GRN-1420,Fire Extinguisher ABC,Plumbing,Pipe Tools,GE,97.88,386,4.6,265,GE Pipe Tools product suitable for industrial use.,25938.199999999997,False,Low,Low
+GRN-1421,LED Work Light,Cleaning Supplies,Surface Cleaners,Milwaukee,366.37,22,4.5,3039,Milwaukee Surface Cleaners product suitable for industrial use.,1113398.43,False,High,High
+GRN-1422,Heavy Duty Drill,Safety Equipment,Hand Protection,GE,52.35,67,4.1,3326,GE Hand Protection product suitable for industrial use.,174116.1,False,High,Low
+GRN-1423,Extension Cord 50ft,Plumbing,Pipe Tools,Milwaukee,69.19,430,4.8,257,Milwaukee Pipe Tools product suitable for industrial use.,17781.829999999998,False,Low,Low
+GRN-1424,Ladder 6ft Fiberglass,Footwear,Work Boots,Dayton,81.64,457,4.8,651,Dayton Work Boots product suitable for industrial use.,53147.64,False,Low,Low
+GRN-1425,Extension Cord 50ft,Footwear,Work Boots,3M,294.99,318,4.8,1578,3M Work Boots product suitable for industrial use.,465494.22000000003,False,Medium,High
+GRN-1426,Extension Cord 50ft,Cleaning Supplies,Surface Cleaners,Bosch,240.98,464,4.7,2121,Bosch Surface Cleaners product suitable for industrial use.,511118.57999999996,False,Medium,Medium
+GRN-1427,Air Filter 16x25x1,HVAC,Air Filters,Eaton,105.07,348,3.9,1651,Eaton Air Filters product suitable for industrial use.,173470.56999999998,False,Medium,Medium
+GRN-1428,Adjustable Wrench,Plumbing,Pipe Tools,Eaton,291.5,319,3.9,469,Eaton Pipe Tools product suitable for industrial use.,136713.5,False,Low,High
+GRN-1429,"Industrial Fan 24""",Ladders & Scaff.,Step Ladders,GE,412.49,50,4.3,4427,GE Step Ladders product suitable for industrial use.,1826093.23,False,High,High
+GRN-1430,Portable Air Compressor,Cleaning Supplies,Surface Cleaners,Milwaukee,257.74,398,4.4,2502,Milwaukee Surface Cleaners product suitable for industrial use.,644865.48,False,Medium,High
+GRN-1431,Pipe Wrench,Ladders & Scaff.,Step Ladders,Bosch,217.86,175,3.6,4714,Bosch Step Ladders product suitable for industrial use.,1026992.04,False,High,Medium
+GRN-1432,Portable Air Compressor,Plumbing,Pipe Tools,Timberland PRO,466.71,197,4.8,2766,Timberland PRO Pipe Tools product suitable for industrial use.,1290919.8599999999,False,Medium,High
+GRN-1433,Adjustable Wrench,Compressed Air,Compressors,GE,144.33,481,4.4,518,GE Compressors product suitable for industrial use.,74762.94,False,Low,Medium
+GRN-1434,Adjustable Wrench,Lighting,Work Lights,3M,339.12,153,4.2,4218,3M Work Lights product suitable for industrial use.,1430408.16,False,High,High
+GRN-1435,Pipe Wrench,Cleaning Supplies,Surface Cleaners,GE,199.08,323,4.4,1210,GE Surface Cleaners product suitable for industrial use.,240886.80000000002,False,Low,Medium
+GRN-1436,Industrial Cleaner,Lighting,Work Lights,Ansell,185.1,179,4.5,1726,Ansell Work Lights product suitable for industrial use.,319482.6,False,Medium,Medium
+GRN-1437,LED Work Light,Safety Equipment,Hand Protection,Bosch,139.04,78,4.7,3603,Bosch Hand Protection product suitable for industrial use.,500961.12,False,High,Medium
+GRN-1438,Extension Cord 50ft,Compressed Air,Compressors,Grainger,141.61,190,4.6,3469,Grainger Compressors product suitable for industrial use.,491245.09,False,High,Medium
+GRN-1439,Oil-Resistant Boots,Compressed Air,Compressors,Timberland PRO,124.11,6,4.5,789,Timberland PRO Compressors product suitable for industrial use.,97922.79,True,Low,Medium
+GRN-1440,Cordless Screwdriver,Lighting,Work Lights,Bosch,272.99,53,3.8,3874,Bosch Work Lights product suitable for industrial use.,1057563.26,False,High,High
+GRN-1441,Industrial Cleaner,Electrical,Circuit Protection,GE,374.99,235,4.5,2901,GE Circuit Protection product suitable for industrial use.,1087845.99,False,Medium,High
+GRN-1442,Industrial Cleaner,Electrical,Circuit Protection,Timberland PRO,178.89,337,4.4,3289,Timberland PRO Circuit Protection product suitable for industrial use.,588369.21,False,High,Medium
+GRN-1443,Ladder 6ft Fiberglass,Compressed Air,Compressors,Milwaukee,104.02,280,3.6,4696,Milwaukee Compressors product suitable for industrial use.,488477.92,False,High,Medium
+GRN-1444,Cordless Screwdriver,Footwear,Work Boots,Kidde,260.17,271,4.7,2364,Kidde Work Boots product suitable for industrial use.,615041.88,False,Medium,High
+GRN-1445,"Industrial Fan 24""",Footwear,Work Boots,DeWalt,48.03,282,4.2,1375,DeWalt Work Boots product suitable for industrial use.,66041.25,False,Low,Low
+GRN-1446,Adjustable Wrench,Footwear,Work Boots,Eaton,125.09,172,4.6,2696,Eaton Work Boots product suitable for industrial use.,337242.64,False,Medium,Medium
+GRN-1447,"Tool Bag 18""",Ladders & Scaff.,Step Ladders,Grainger,28.08,286,4.0,1251,Grainger Step Ladders product suitable for industrial use.,35128.079999999994,False,Low,Low
+GRN-1448,Industrial Cleaner,Electrical,Circuit Protection,Timberland PRO,425.08,445,4.5,4233,Timberland PRO Circuit Protection product suitable for industrial use.,1799363.64,False,High,High
+GRN-1449,Heavy Duty Drill,Tools Storage,Tool Bags,Eaton,180.69,243,4.2,2987,Eaton Tool Bags product suitable for industrial use.,539721.03,False,Medium,Medium
+GRN-1450,Extension Cord 50ft,Compressed Air,Compressors,Eaton,174.5,199,4.4,1919,Eaton Compressors product suitable for industrial use.,334865.5,False,Medium,Medium
+GRN-1451,Ladder 6ft Fiberglass,Ladders & Scaff.,Step Ladders,DeWalt,120.46,1,4.0,1907,DeWalt Step Ladders product suitable for industrial use.,229717.22,True,Medium,Medium
+GRN-1452,"Industrial Fan 24""",Compressed Air,Compressors,3M,139.94,461,4.1,1492,3M Compressors product suitable for industrial use.,208790.48,False,Low,Medium
+GRN-1453,Air Filter 16x25x1,HVAC,Ventilation Fans,DeWalt,101.49,218,4.2,1676,DeWalt Ventilation Fans product suitable for industrial use.,170097.24,False,Medium,Medium
+GRN-1454,Ladder 6ft Fiberglass,Power Tools,Screwdrivers,Zep,186.1,371,3.8,2191,Zep Screwdrivers product suitable for industrial use.,407745.1,False,Medium,Medium
+GRN-1455,Extension Cord 50ft,Compressed Air,Compressors,Ansell,402.49,246,3.5,4048,Ansell Compressors product suitable for industrial use.,1629279.52,False,High,High
+GRN-1456,Fire Extinguisher ABC,Safety Equipment,Fire Safety,Eaton,35.07,172,4.4,3527,Eaton Fire Safety product suitable for industrial use.,123691.89,False,High,Low
+GRN-1457,Oil-Resistant Boots,Ladders & Scaff.,Step Ladders,Milwaukee,71.04,203,3.7,3803,Milwaukee Step Ladders product suitable for industrial use.,270165.12,False,High,Low
+GRN-1458,Industrial Cleaner,Safety Equipment,Fire Safety,Zep,182.34,273,3.7,2686,Zep Fire Safety product suitable for industrial use.,489765.24,False,Medium,Medium
+GRN-1459,Circuit Breaker 20A,Tools Storage,Tool Bags,GE,50.41,472,4.5,3937,GE Tool Bags product suitable for industrial use.,198464.16999999998,False,High,Low
+GRN-1460,Oil-Resistant Boots,Plumbing,Pipe Tools,Milwaukee,100.99,481,4.2,1626,Milwaukee Pipe Tools product suitable for industrial use.,164209.74,False,Medium,Medium
+GRN-1461,LED Work Light,Tools Storage,Tool Bags,Milwaukee,115.91,403,4.1,1432,Milwaukee Tool Bags product suitable for industrial use.,165983.12,False,Low,Medium
+GRN-1462,Pipe Wrench,Ladders & Scaff.,Step Ladders,Milwaukee,101.57,472,4.2,2340,Milwaukee Step Ladders product suitable for industrial use.,237673.8,False,Medium,Medium
+GRN-1463,Circuit Breaker 20A,Compressed Air,Compressors,Eaton,94.13,4,3.8,127,Eaton Compressors product suitable for industrial use.,11954.51,True,Low,Low
+GRN-1464,"Industrial Fan 24""",Footwear,Work Boots,Eaton,334.81,257,3.6,2035,Eaton Work Boots product suitable for industrial use.,681338.35,False,Medium,High
+GRN-1465,Oil-Resistant Boots,Ladders & Scaff.,Step Ladders,Dayton,408.09,251,4.6,3627,Dayton Step Ladders product suitable for industrial use.,1480142.43,False,High,High
+GRN-1466,Heavy Duty Drill,Footwear,Work Boots,Eaton,239.52,314,4.2,4566,Eaton Work Boots product suitable for industrial use.,1093648.32,False,High,Medium
+GRN-1467,"Tool Bag 18""",Power Tools,Screwdrivers,Eaton,296.23,174,4.2,2610,Eaton Screwdrivers product suitable for industrial use.,773160.3,False,Medium,High
+GRN-1468,Air Filter 16x25x1,Ladders & Scaff.,Step Ladders,Zep,359.38,408,4.1,4101,Zep Step Ladders product suitable for industrial use.,1473817.38,False,High,High
+GRN-1469,Adjustable Wrench,Ladders & Scaff.,Step Ladders,Kidde,184.07,230,3.7,2278,Kidde Step Ladders product suitable for industrial use.,419311.45999999996,False,Medium,Medium
+GRN-1470,Industrial Cleaner,Tools Storage,Tool Bags,Werner,23.42,101,4.9,2513,Werner Tool Bags product suitable for industrial use.,58854.46000000001,False,Medium,Low
+GRN-1471,Air Filter 16x25x1,Electrical,Circuit Protection,Grainger,289.6,123,3.8,4597,Grainger Circuit Protection product suitable for industrial use.,1331291.2000000002,False,High,High
+GRN-1472,Safety Gloves - Large,Ladders & Scaff.,Step Ladders,GE,192.5,337,4.3,2577,GE Step Ladders product suitable for industrial use.,496072.5,False,Medium,Medium
+GRN-1473,Air Filter 16x25x1,Safety Equipment,Hand Protection,Werner,280.16,73,4.7,4059,Werner Hand Protection product suitable for industrial use.,1137169.4400000002,False,High,High
+GRN-1474,Safety Gloves - Large,Electrical,Extension Cords,Kidde,414.64,430,4.5,491,Kidde Extension Cords product suitable for industrial use.,203588.24,False,Low,High
+GRN-1475,Cordless Screwdriver,Lighting,Work Lights,Werner,424.68,194,3.8,771,Werner Work Lights product suitable for industrial use.,327428.28,False,Low,High
+GRN-1476,Industrial Cleaner,Ladders & Scaff.,Step Ladders,Ansell,154.17,131,3.6,565,Ansell Step Ladders product suitable for industrial use.,87106.04999999999,False,Low,Medium
+GRN-1477,Heavy Duty Drill,HVAC,Air Filters,GE,294.7,150,3.6,4620,GE Air Filters product suitable for industrial use.,1361514.0,False,High,High
+GRN-1478,Pipe Wrench,Cleaning Supplies,Surface Cleaners,Werner,11.14,416,4.9,3696,Werner Surface Cleaners product suitable for industrial use.,41173.44,False,High,Low
+GRN-1479,Cordless Screwdriver,Footwear,Work Boots,Ansell,331.85,74,3.8,1364,Ansell Work Boots product suitable for industrial use.,452643.4,False,Low,High
+GRN-1480,Safety Gloves - Large,Safety Equipment,Fire Safety,GE,368.48,285,4.8,139,GE Fire Safety product suitable for industrial use.,51218.72,False,Low,High
+GRN-1481,LED Work Light,Plumbing,Pipe Tools,Dayton,425.09,252,3.9,2800,Dayton Pipe Tools product suitable for industrial use.,1190252.0,False,Medium,High
+GRN-1482,Industrial Cleaner,Power Tools,Drills,Dayton,194.8,418,4.3,396,Dayton Drills product suitable for industrial use.,77140.8,False,Low,Medium
+GRN-1483,Extension Cord 50ft,Compressed Air,Compressors,Timberland PRO,472.51,169,4.3,3206,Timberland PRO Compressors product suitable for industrial use.,1514867.06,False,High,High
+GRN-1484,Oil-Resistant Boots,Compressed Air,Compressors,Milwaukee,66.9,162,4.5,3119,Milwaukee Compressors product suitable for industrial use.,208661.1,False,High,Low
+GRN-1485,"Tool Bag 18""",Electrical,Extension Cords,Ansell,158.18,485,4.0,4426,Ansell Extension Cords product suitable for industrial use.,700104.68,False,High,Medium
+GRN-1486,Portable Air Compressor,Lighting,Work Lights,Bosch,411.8,412,3.9,3012,Bosch Work Lights product suitable for industrial use.,1240341.6,False,High,High
+GRN-1487,Ladder 6ft Fiberglass,HVAC,Ventilation Fans,DeWalt,457.67,191,4.3,419,DeWalt Ventilation Fans product suitable for industrial use.,191763.73,False,Low,High
+GRN-1488,LED Work Light,Electrical,Circuit Protection,Werner,210.06,20,3.9,2197,Werner Circuit Protection product suitable for industrial use.,461501.82,False,Medium,Medium
+GRN-1489,Pipe Wrench,Lighting,Work Lights,Zep,241.92,299,4.5,4724,Zep Work Lights product suitable for industrial use.,1142830.0799999998,False,High,Medium
+GRN-1490,Portable Air Compressor,Plumbing,Pipe Tools,Zep,391.78,218,4.3,4462,Zep Pipe Tools product suitable for industrial use.,1748122.3599999999,False,High,High
+GRN-1491,Circuit Breaker 20A,Tools Storage,Tool Bags,Kidde,25.84,161,4.2,1807,Kidde Tool Bags product suitable for industrial use.,46692.88,False,Medium,Low
+GRN-1492,Circuit Breaker 20A,Compressed Air,Compressors,Werner,128.6,258,4.0,4783,Werner Compressors product suitable for industrial use.,615093.7999999999,False,High,Medium
+GRN-1493,Safety Gloves - Large,Safety Equipment,Fire Safety,Werner,190.5,354,4.3,4411,Werner Fire Safety product suitable for industrial use.,840295.5,False,High,Medium
+GRN-1494,Heavy Duty Drill,Lighting,Work Lights,3M,488.38,269,3.7,4979,3M Work Lights product suitable for industrial use.,2431644.02,False,High,High
+GRN-1495,Heavy Duty Drill,Ladders & Scaff.,Step Ladders,GE,436.8,430,3.8,4196,GE Step Ladders product suitable for industrial use.,1832812.8,False,High,High
+GRN-1496,Extension Cord 50ft,Safety Equipment,Fire Safety,Werner,179.91,113,5.0,2311,Werner Fire Safety product suitable for industrial use.,415772.01,False,Medium,Medium
+GRN-1497,Extension Cord 50ft,Footwear,Work Boots,GE,98.38,213,4.8,4990,GE Work Boots product suitable for industrial use.,490916.19999999995,False,High,Low
+GRN-1498,Fire Extinguisher ABC,Safety Equipment,Hand Protection,Ansell,15.23,482,4.5,1072,Ansell Hand Protection product suitable for industrial use.,16326.560000000001,False,Low,Low
+GRN-1499,Industrial Cleaner,Power Tools,Screwdrivers,Werner,75.63,127,3.6,4938,Werner Screwdrivers product suitable for industrial use.,373460.94,False,High,Low
+GRN-1500,Pipe Wrench,Power Tools,Drills,Timberland PRO,88.32,488,3.9,1767,Timberland PRO Drills product suitable for industrial use.,156061.44,False,Medium,Low
